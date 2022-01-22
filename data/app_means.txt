@@ -1,0 +1,1988 @@
+{"appid": "570", "name": "Dota 2", "median": 825}
+{"appid": "730", "name": "Counter-Strike: Global Offensive", "median": 6848}
+{"appid": "440", "name": "Team Fortress 2", "median": 380}
+{"appid": "578080", "name": "PUBG: BATTLEGROUNDS", "median": 11170}
+{"appid": "304930", "name": "Unturned", "median": 304}
+{"appid": "230410", "name": "Warframe", "median": 402}
+{"appid": "1063730", "name": "New World", "median": 3426}
+{"appid": "271590", "name": "Grand Theft Auto V", "median": 6850}
+{"appid": "105600", "name": "Terraria", "median": 2238}
+{"appid": "550", "name": "Left 4 Dead 2", "median": 513}
+{"appid": "291550", "name": "Brawlhalla", "median": 147}
+{"appid": "4000", "name": "Garry's Mod", "median": 1444}
+{"appid": "359550", "name": "Tom Clancy's Rainbow Six\u00ae Siege", "median": 3308}
+{"appid": "945360", "name": "Among Us", "median": 643}
+{"appid": "1172470", "name": "Apex Legends\u2122", "median": 693}
+{"appid": "236390", "name": "War Thunder", "median": 310}
+{"appid": "340", "name": "Half-Life 2: Lost Coast", "median": 24}
+{"appid": "218620", "name": "PAYDAY 2", "median": 640}
+{"appid": "238960", "name": "Path of Exile", "median": 350}
+{"appid": "1085660", "name": "Destiny 2", "median": 362}
+{"appid": "892970", "name": "Valheim", "median": 1355}
+{"appid": "252490", "name": "Rust", "median": 2545}
+{"appid": "431960", "name": "Wallpaper Engine", "median": 760}
+{"appid": "10", "name": "Counter-Strike", "median": 244}
+{"appid": "444090", "name": "Paladins\u00ae", "median": 436}
+{"appid": "272060", "name": "Serena", "median": 27}
+{"appid": "1097150", "name": "Fall Guys: Ultimate Knockout", "median": 480}
+{"appid": "49520", "name": "Borderlands 2", "median": 1149}
+{"appid": "1091500", "name": "Cyberpunk 2077", "median": 2589}
+{"appid": "227940", "name": "Heroes & Generals", "median": 80}
+{"appid": "292030", "name": "The Witcher\u00ae 3: Wild Hunt", "median": 929}
+{"appid": "381210", "name": "Dead by Daylight", "median": 1070}
+{"appid": "291480", "name": "Warface", "median": 98}
+{"appid": "552990", "name": "World of Warships", "median": 181}
+{"appid": "322330", "name": "Don't Starve Together", "median": 495}
+{"appid": "620", "name": "Portal 2", "median": 524}
+{"appid": "227300", "name": "Euro Truck Simulator 2", "median": 1600}
+{"appid": "240", "name": "Counter-Strike: Source", "median": 421}
+{"appid": "301520", "name": "Robocraft", "median": 184}
+{"appid": "320", "name": "Half-Life 2: Deathmatch", "median": 56}
+{"appid": "550650", "name": "Black Squad", "median": 66}
+{"appid": "755790", "name": "Ring of Elysium", "median": 107}
+{"appid": "252950", "name": "Rocket League\u00ae", "median": 2627}
+{"appid": "386360", "name": "SMITE\u00ae", "median": 135}
+{"appid": "242760", "name": "The Forest", "median": 991}
+{"appid": "477160", "name": "Human: Fall Flat", "median": 391}
+{"appid": "1468810", "name": "\u9b3c\u8c37\u516b\u8352 Tale of Immortal", "median": 1530}
+{"appid": "304050", "name": "Trove", "median": 183}
+{"appid": "1240440", "name": "Halo Infinite", "median": 139}
+{"appid": "220", "name": "Half-Life 2", "median": 332}
+{"appid": "433850", "name": "Z1 Battle Royale", "median": 136}
+{"appid": "400", "name": "Portal", "median": 184}
+{"appid": "739630", "name": "Phasmophobia", "median": 703}
+{"appid": "130", "name": "Half-Life: Blue Shift", "median": 115}
+{"appid": "346110", "name": "ARK: Survival Evolved", "median": 2022}
+{"appid": "417910", "name": "Street Warriors Online", "median": 88}
+{"appid": "275390", "name": "Guacamelee! Super Turbo Championship Edition", "median": 83}
+{"appid": "582010", "name": "Monster Hunter: World", "median": 2756}
+{"appid": "8930", "name": "Sid Meier's Civilization\u00ae V", "median": 2542}
+{"appid": "444200", "name": "World of Tanks Blitz", "median": 121}
+{"appid": "532210", "name": "Life is Strange 2", "median": 224}
+{"appid": "218230", "name": "PlanetSide 2", "median": 146}
+{"appid": "70", "name": "Half-Life", "median": 163}
+{"appid": "80", "name": "Counter-Strike: Condition Zero", "median": 31}
+{"appid": "413150", "name": "Stardew Valley", "median": 1386}
+{"appid": "72850", "name": "The Elder Scrolls V: Skyrim", "median": 2912}
+{"appid": "261550", "name": "Mount & Blade II: Bannerlord", "median": 3505}
+{"appid": "251570", "name": "7 Days to Die", "median": 1427}
+{"appid": "96000", "name": "The Tiny Bang Story", "median": 303}
+{"appid": "1089350", "name": "NBA 2K20", "median": 3053}
+{"appid": "224260", "name": "No More Room in Hell", "median": 91}
+{"appid": "632360", "name": "Risk of Rain 2", "median": 1298}
+{"appid": "239140", "name": "Dying Light", "median": 1194}
+{"appid": "370910", "name": "Kathy Rain", "median": 272}
+{"appid": "219990", "name": "Grim Dawn", "median": 1247}
+{"appid": "1046930", "name": "Dota Underlords", "median": 298}
+{"appid": "648800", "name": "Raft", "median": 808}
+{"appid": "333930", "name": "Dirty Bomb\u00ae", "median": 99}
+{"appid": "203160", "name": "Tomb Raider", "median": 386}
+{"appid": "255710", "name": "Cities: Skylines", "median": 774}
+{"appid": "1203220", "name": "NARAKA: BLADEPOINT", "median": 1752}
+{"appid": "60", "name": "Ricochet", "median": 13}
+{"appid": "50", "name": "Half-Life: Opposing Force", "median": 256}
+{"appid": "278360", "name": "A Story About My Uncle", "median": 241}
+{"appid": "360", "name": "Half-Life Deathmatch: Source", "median": 13}
+{"appid": "275850", "name": "No Man's Sky", "median": 1114}
+{"appid": "439700", "name": "Z1 Battle Royale: Test Server", "median": 12}
+{"appid": "588430", "name": "Fallout Shelter", "median": 130}
+{"appid": "377160", "name": "Fallout 4", "median": 2061}
+{"appid": "273110", "name": "Counter-Strike Nexon: Studio", "median": 52}
+{"appid": "365590", "name": "Tom Clancy\u2019s The Division\u2122", "median": 1507}
+{"appid": "242050", "name": "Assassin\u2019s Creed\u00ae IV Black Flag\u2122", "median": 1625}
+{"appid": "814380", "name": "Sekiro\u2122: Shadows Die Twice - GOTY Edition", "median": 1373}
+{"appid": "10180", "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2", "median": 508}
+{"appid": "466240", "name": "Deceit", "median": 89}
+{"appid": "107410", "name": "Arma 3", "median": 1540}
+{"appid": "844870", "name": "KurtzPel", "median": 111}
+{"appid": "8980", "name": "Borderlands Game of the Year", "median": 862}
+{"appid": "40", "name": "Deathmatch Classic", "median": 20}
+{"appid": "30", "name": "Day of Defeat", "median": 17}
+{"appid": "374320", "name": "DARK SOULS\u2122 III", "median": 1894}
+{"appid": "289070", "name": "Sid Meier\u2019s Civilization\u00ae VI", "median": 1685}
+{"appid": "363970", "name": "Clicker Heroes", "median": 502}
+{"appid": "1517290", "name": "Battlefield\u2122 2042", "median": 628}
+{"appid": "387990", "name": "Scrap Mechanic", "median": 890}
+{"appid": "204360", "name": "Castle Crashers\u00ae", "median": 306}
+{"appid": "813820", "name": "Realm Royale", "median": 113}
+{"appid": "1174180", "name": "Red Dead Redemption 2", "median": 1951}
+{"appid": "221380", "name": "Age of Empires II (2013)", "median": 705}
+{"appid": "44350", "name": "GRID 2", "median": 182}
+{"appid": "582660", "name": "Black Desert", "median": 417}
+{"appid": "700330", "name": "SCP: Secret Laboratory", "median": 69}
+{"appid": "253710", "name": "theHunter Classic", "median": 64}
+{"appid": "285800", "name": "Braveland", "median": 265}
+{"appid": "219740", "name": "Don't Starve", "median": 313}
+{"appid": "12120", "name": "Grand Theft Auto: San Andreas", "median": 288}
+{"appid": "219640", "name": "Chivalry: Medieval Warfare", "median": 253}
+{"appid": "319630", "name": "Life is Strange - Episode 1", "median": 200}
+{"appid": "109600", "name": "Neverwinter", "median": 259}
+{"appid": "300", "name": "Day of Defeat: Source", "median": 143}
+{"appid": "221100", "name": "DayZ", "median": 1850}
+{"appid": "976730", "name": "Halo: The Master Chief Collection", "median": 940}
+{"appid": "10190", "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2", "median": 875}
+{"appid": "863550", "name": "HITMAN\u2122 2", "median": 250}
+{"appid": "273350", "name": "Evolve Stage 2", "median": 105}
+{"appid": "555570", "name": "Infestation: The New Z", "median": 41}
+{"appid": "489830", "name": "The Elder Scrolls V: Skyrim Special Edition", "median": 694}
+{"appid": "367520", "name": "Hollow Knight", "median": 615}
+{"appid": "346900", "name": "AdVenture Capitalist", "median": 257}
+{"appid": "1100600", "name": "Football Manager 2020", "median": 18775}
+{"appid": "231430", "name": "Company of Heroes 2", "median": 275}
+{"appid": "208090", "name": "Loadout", "median": 133}
+{"appid": "39210", "name": "FINAL FANTASY XIV Online", "median": 3510}
+{"appid": "15700", "name": "Oddworld: Abe's Oddysee\u00ae", "median": 214}
+{"appid": "211500", "name": "RaceRoom Racing Experience", "median": 30}
+{"appid": "1145360", "name": "Hades", "median": 1006}
+{"appid": "427520", "name": "Factorio", "median": 3227}
+{"appid": "435150", "name": "Divinity: Original Sin 2 - Definitive Edition", "median": 2189}
+{"appid": "677620", "name": "Splitgate", "median": 221}
+{"appid": "113400", "name": "APB Reloaded", "median": 238}
+{"appid": "407530", "name": "ARK: Survival Of The Fittest", "median": 18}
+{"appid": "233450", "name": "Prison Architect", "median": 510}
+{"appid": "8870", "name": "BioShock Infinite", "median": 630}
+{"appid": "420", "name": "Half-Life 2: Episode Two", "median": 271}
+{"appid": "225840", "name": "Sven Co-op", "median": 100}
+{"appid": "339610", "name": "Freestyle 2: Street Basketball", "median": 133}
+{"appid": "241930", "name": "Middle-earth\u2122: Shadow of Mordor\u2122", "median": 867}
+{"appid": "594570", "name": "Total War: WARHAMMER II", "median": 3348}
+{"appid": "1172620", "name": "Sea of Thieves", "median": 1366}
+{"appid": "20", "name": "Team Fortress Classic", "median": 18}
+{"appid": "250900", "name": "The Binding of Isaac: Rebirth", "median": 3657}
+{"appid": "268500", "name": "XCOM\u00ae 2", "median": 1766}
+{"appid": "232770", "name": "POSTAL", "median": 225}
+{"appid": "698780", "name": "Doki Doki Literature Club!", "median": 137}
+{"appid": "883710", "name": "Resident Evil 2", "median": 775}
+{"appid": "356190", "name": "Middle-earth\u2122: Shadow of War\u2122", "median": 1183}
+{"appid": "1250", "name": "Killing Floor", "median": 264}
+{"appid": "1286830", "name": "STAR WARS\u2122: The Old Republic\u2122", "median": 472}
+{"appid": "252130", "name": "Divide By Sheep", "median": 85}
+{"appid": "489520", "name": "Minion Masters", "median": 157}
+{"appid": "265630", "name": "Fistful of Frags", "median": 105}
+{"appid": "322170", "name": "Geometry Dash", "median": 360}
+{"appid": "280790", "name": "Creativerse", "median": 89}
+{"appid": "206420", "name": "Saints Row IV", "median": 711}
+{"appid": "397900", "name": "Business Tour - Board Game with Online Multiplayer", "median": 184}
+{"appid": "211820", "name": "Starbound", "median": 1247}
+{"appid": "55230", "name": "Saints Row: The Third", "median": 891}
+{"appid": "629760", "name": "MORDHAU", "median": 1242}
+{"appid": "236850", "name": "Europa Universalis IV", "median": 874}
+{"appid": "42910", "name": "Magicka", "median": 303}
+{"appid": "22380", "name": "Fallout: New Vegas", "median": 1599}
+{"appid": "8190", "name": "Just Cause 2", "median": 206}
+{"appid": "304390", "name": "FOR HONOR\u2122", "median": 677}
+{"appid": "504370", "name": "Battlerite", "median": 137}
+{"appid": "12210", "name": "Grand Theft Auto IV: The Complete Edition", "median": 615}
+{"appid": "630", "name": "Alien Swarm", "median": 83}
+{"appid": "280", "name": "Half-Life: Source", "median": 92}
+{"appid": "20920", "name": "The Witcher 2: Assassins of Kings Enhanced Edition", "median": 293}
+{"appid": "48700", "name": "Mount & Blade: Warband", "median": 2264}
+{"appid": "238320", "name": "Outlast", "median": 130}
+{"appid": "355840", "name": "Survarium", "median": 53}
+{"appid": "264710", "name": "Subnautica", "median": 1331}
+{"appid": "548430", "name": "Deep Rock Galactic", "median": 1052}
+{"appid": "379720", "name": "DOOM", "median": 546}
+{"appid": "438100", "name": "VRChat", "median": 91}
+{"appid": "223710", "name": "Cry of Fear", "median": 58}
+{"appid": "500", "name": "Left 4 Dead", "median": 174}
+{"appid": "222880", "name": "Insurgency", "median": 247}
+{"appid": "238460", "name": "BattleBlock Theater\u00ae", "median": 274}
+{"appid": "55150", "name": "Warhammer 40,000: Space Marine - Anniversary Edition", "median": 264}
+{"appid": "394360", "name": "Hearts of Iron IV", "median": 3499}
+{"appid": "365670", "name": "Blender", "median": 49}
+{"appid": "24240", "name": "PAYDAY\u2122 The Heist", "median": 197}
+{"appid": "424840", "name": "Little Nightmares", "median": 90}
+{"appid": "6060", "name": "Star Wars: Battlefront 2 (Classic, 2005)", "median": 239}
+{"appid": "7670", "name": "BioShock\u2122", "median": 116}
+{"appid": "286160", "name": "Tabletop Simulator", "median": 435}
+{"appid": "391540", "name": "Undertale", "median": 406}
+{"appid": "57300", "name": "Amnesia: The Dark Descent", "median": 81}
+{"appid": "63380", "name": "Sniper Elite V2", "median": 269}
+{"appid": "302830", "name": "BLOCKADE 3D", "median": 104}
+{"appid": "391220", "name": "Rise of the Tomb Raider\u2122", "median": 692}
+{"appid": "518790", "name": "theHunter: Call of the Wild\u2122", "median": 510}
+{"appid": "33930", "name": "Arma 2: Operation Arrowhead", "median": 342}
+{"appid": "380", "name": "Half-Life 2: Episode One", "median": 178}
+{"appid": "506540", "name": "Last Man Standing", "median": 83}
+{"appid": "262060", "name": "Darkest Dungeon\u00ae", "median": 945}
+{"appid": "3590", "name": "Plants vs. Zombies GOTY Edition", "median": 538}
+{"appid": "48000", "name": "LIMBO", "median": 107}
+{"appid": "220240", "name": "Far Cry 3", "median": 996}
+{"appid": "779340", "name": "Total War: THREE KINGDOMS", "median": 2728}
+{"appid": "200710", "name": "Torchlight II", "median": 774}
+{"appid": "782330", "name": "DOOM Eternal", "median": 857}
+{"appid": "200210", "name": "Realm of the Mad God Exalt", "median": 114}
+{"appid": "9480", "name": "Saints Row 2", "median": 96}
+{"appid": "225540", "name": "Just Cause\u2122 3", "median": 562}
+{"appid": "884660", "name": "CRSED: F.O.A.D.", "median": 40}
+{"appid": "1225330", "name": "NBA 2K21", "median": 4575}
+{"appid": "395170", "name": "DISTRAINT: Deluxe Edition", "median": 249}
+{"appid": "201270", "name": "Total War: SHOGUN 2", "median": 0}
+{"appid": "386180", "name": "Crossout", "median": 213}
+{"appid": "312990", "name": "The Expendabros", "median": 64}
+{"appid": "588650", "name": "Dead Cells", "median": 922}
+{"appid": "262410", "name": "World of Guns: Gun Disassembly", "median": 55}
+{"appid": "646570", "name": "Slay the Spire", "median": 2644}
+{"appid": "526870", "name": "Satisfactory", "median": 1699}
+{"appid": "232090", "name": "Killing Floor 2", "median": 744}
+{"appid": "311210", "name": "Call of Duty\u00ae: Black Ops III", "median": 1819}
+{"appid": "35450", "name": "Red Orchestra 2: Heroes of Stalingrad with Rising Storm", "median": 310}
+{"appid": "202970", "name": "Call of Duty\u00ae: Black Ops II", "median": 168}
+{"appid": "20900", "name": "The Witcher: Enhanced Edition Director's Cut", "median": 103}
+{"appid": "223470", "name": "POSTAL 2", "median": 190}
+{"appid": "212500", "name": "The Lord of the Rings Online\u2122", "median": 177}
+{"appid": "8500", "name": "EVE Online", "median": 124}
+{"appid": "601150", "name": "Devil May Cry 5", "median": 721}
+{"appid": "475150", "name": "Titan Quest Anniversary Edition", "median": 186}
+{"appid": "1366540", "name": "Dyson Sphere Program", "median": 1386}
+{"appid": "209080", "name": "Guns of Icarus Online", "median": 311}
+{"appid": "744900", "name": "Dead Frontier 2", "median": 41}
+{"appid": "601510", "name": "Yu-Gi-Oh! Duel Links", "median": 149}
+{"appid": "261640", "name": "Borderlands: The Pre-Sequel", "median": 601}
+{"appid": "299360", "name": "Block N Load", "median": 71}
+{"appid": "205100", "name": "Dishonored", "median": 752}
+{"appid": "674940", "name": "Stick Fight: The Game", "median": 228}
+{"appid": "115300", "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3", "median": 0}
+{"appid": "224600", "name": "Defiance", "median": 146}
+{"appid": "594650", "name": "Hunt: Showdown", "median": 801}
+{"appid": "99900", "name": "Spiral Knights", "median": 121}
+{"appid": "203770", "name": "Crusader Kings II", "median": 242}
+{"appid": "508440", "name": "Totally Accurate Battle Simulator", "median": 361}
+{"appid": "281990", "name": "Stellaris", "median": 1388}
+{"appid": "380600", "name": "Fishing Planet", "median": 54}
+{"appid": "244850", "name": "Space Engineers", "median": 1177}
+{"appid": "17740", "name": "Empires Mod", "median": 0}
+{"appid": "714010", "name": "Aim Lab", "median": 42}
+{"appid": "335240", "name": "Transformice", "median": 53}
+{"appid": "284160", "name": "BeamNG.drive", "median": 736}
+{"appid": "294100", "name": "RimWorld", "median": 4393}
+{"appid": "35720", "name": "Trine 2: Complete Story", "median": 242}
+{"appid": "234140", "name": "Mad Max", "median": 800}
+{"appid": "214950", "name": "Total War\u2122: ROME II - Emperor Edition", "median": 2297}
+{"appid": "50130", "name": "Mafia II (Classic)", "median": 861}
+{"appid": "311690", "name": "Enter the Gungeon", "median": 717}
+{"appid": "4560", "name": "Company of Heroes - Legacy Edition", "median": 124}
+{"appid": "355180", "name": "Codename CURE", "median": 55}
+{"appid": "563560", "name": "Alien Swarm: Reactive Drop", "median": 68}
+{"appid": "552500", "name": "Warhammer: Vermintide 2", "median": 608}
+{"appid": "200510", "name": "XCOM: Enemy Unknown", "median": 976}
+{"appid": "1049590", "name": "Eternal Return", "median": 124}
+{"appid": "223750", "name": "DCS World Steam Edition", "median": 28}
+{"appid": "34330", "name": "Total War: SHOGUN 2", "median": 410}
+{"appid": "207610", "name": "The Walking Dead", "median": 439}
+{"appid": "212680", "name": "FTL: Faster Than Light", "median": 558}
+{"appid": "10090", "name": "Call of Duty: World at War", "median": 741}
+{"appid": "620980", "name": "Beat Saber", "median": 1164}
+{"appid": "12100", "name": "Grand Theft Auto III", "median": 43}
+{"appid": "17410", "name": "Mirror's Edge\u2122", "median": 168}
+{"appid": "242720", "name": "GunZ 2: The Second Duel", "median": 58}
+{"appid": "905370", "name": "Conqueror's Blade", "median": 252}
+{"appid": "279720", "name": "The I of the Dragon", "median": 262}
+{"appid": "220200", "name": "Kerbal Space Program", "median": 677}
+{"appid": "203140", "name": "Hitman: Absolution\u2122", "median": 556}
+{"appid": "513710", "name": "SCUM", "median": 1030}
+{"appid": "209870", "name": "Blacklight: Retribution", "median": 100}
+{"appid": "268910", "name": "Cuphead", "median": 354}
+{"appid": "233130", "name": "Shadow Warrior", "median": 214}
+{"appid": "282440", "name": "Quake Live\u2122", "median": 49}
+{"appid": "546560", "name": "Half-Life: Alyx", "median": 363}
+{"appid": "813780", "name": "Age of Empires II: Definitive Edition", "median": 656}
+{"appid": "8850", "name": "BioShock\u00ae 2", "median": 137}
+{"appid": "33900", "name": "Arma 2", "median": 70}
+{"appid": "113200", "name": "The Binding of Isaac", "median": 314}
+{"appid": "236870", "name": "HITMAN\u2122", "median": 412}
+{"appid": "323190", "name": "Frostpunk", "median": 504}
+{"appid": "418370", "name": "Resident Evil 7 Biohazard", "median": 620}
+{"appid": "286940", "name": "S.K.I.L.L. - Special Force 2 (Shooter)", "median": 174}
+{"appid": "391460", "name": "WARMODE", "median": 23}
+{"appid": "316010", "name": "Magic Duels", "median": 142}
+{"appid": "270880", "name": "American Truck Simulator", "median": 1051}
+{"appid": "247080", "name": "Crypt of the NecroDancer", "median": 189}
+{"appid": "306130", "name": "The Elder Scrolls\u00ae Online", "median": 1429}
+{"appid": "440900", "name": "Conan Exiles", "median": 2154}
+{"appid": "391720", "name": "Layers of Fear", "median": 242}
+{"appid": "213670", "name": "South Park\u2122: The Stick of Truth\u2122", "median": 702}
+{"appid": "552520", "name": "Far Cry\u00ae 5", "median": 1479}
+{"appid": "219150", "name": "Hotline Miami", "median": 229}
+{"appid": "107100", "name": "Bastion", "median": 293}
+{"appid": "1086940", "name": "Baldur's Gate 3", "median": 878}
+{"appid": "845070", "name": "The Awesome Adventures of Captain Spirit", "median": 69}
+{"appid": "250820", "name": "SteamVR", "median": 4316}
+{"appid": "286690", "name": "Metro 2033 Redux", "median": 419}
+{"appid": "39120", "name": "RIFT", "median": 200}
+{"appid": "644560", "name": "Mirror", "median": 343}
+{"appid": "871720", "name": "Ultimate Custom Night", "median": 63}
+{"appid": "287390", "name": "Metro: Last Light Redux", "median": 478}
+{"appid": "389730", "name": "TEKKEN 7", "median": 724}
+{"appid": "204450", "name": "Call of Juarez: Gunslinger", "median": 284}
+{"appid": "431240", "name": "Golf With Your Friends", "median": 379}
+{"appid": "530700", "name": "Argo", "median": 28}
+{"appid": "359320", "name": "Elite Dangerous", "median": 1920}
+{"appid": "239030", "name": "Papers, Please", "median": 228}
+{"appid": "24200", "name": "DC Universe\u2122 Online", "median": 740}
+{"appid": "1238810", "name": "Battlefield V", "median": 444}
+{"appid": "1289310", "name": "Helltaker", "median": 66}
+{"appid": "203290", "name": "America's Army: Proving Grounds", "median": 32}
+{"appid": "211420", "name": "DARK SOULS\u2122: Prepare To Die\u2122 Edition", "median": 1199}
+{"appid": "582160", "name": "Assassin's Creed\u00ae Origins", "median": 1530}
+{"appid": "372000", "name": "Tree of Savior (English Ver.)", "median": 312}
+{"appid": "240720", "name": "Getting Over It with Bennett Foddy", "median": 99}
+{"appid": "208650", "name": "Batman\u2122: Arkham Knight", "median": 1129}
+{"appid": "880940", "name": "Pummel Party", "median": 368}
+{"appid": "1426210", "name": "It Takes Two", "median": 824}
+{"appid": "24960", "name": "Battlefield: Bad Company\u2122 2", "median": 619}
+{"appid": "439190", "name": "Stories: The Path of Destinies", "median": 303}
+{"appid": "42700", "name": "Call of Duty\u00ae: Black Ops", "median": 548}
+{"appid": "310950", "name": "Street Fighter V", "median": 1186}
+{"appid": "3830", "name": "Psychonauts", "median": 194}
+{"appid": "246620", "name": "Plague Inc: Evolved", "median": 275}
+{"appid": "286570", "name": "F1 2015", "median": 373}
+{"appid": "207140", "name": "SpeedRunners", "median": 327}
+{"appid": "1057090", "name": "Ori and the Will of the Wisps", "median": 732}
+{"appid": "201790", "name": "Orcs Must Die! 2", "median": 323}
+{"appid": "274190", "name": "Broforce", "median": 387}
+{"appid": "65800", "name": "Dungeon Defenders", "median": 581}
+{"appid": "397540", "name": "Borderlands 3", "median": 1766}
+{"appid": "55100", "name": "Homefront", "median": 99}
+{"appid": "200260", "name": "Batman: Arkham City - Game of the Year Edition", "median": 592}
+{"appid": "221910", "name": "The Stanley Parable", "median": 152}
+{"appid": "295110", "name": "Just Survive", "median": 1154}
+{"appid": "248570", "name": "Toribash", "median": 64}
+{"appid": "1237970", "name": "Titanfall\u00ae 2", "median": 456}
+{"appid": "265930", "name": "Goat Simulator", "median": 195}
+{"appid": "364360", "name": "Total War: WARHAMMER", "median": 924}
+{"appid": "1293830", "name": "Forza Horizon 4", "median": 1231}
+{"appid": "206210", "name": "Gotham City Impostors Free to Play", "median": 56}
+{"appid": "11020", "name": "TrackMania Nations Forever", "median": 86}
+{"appid": "307780", "name": "Mortal Kombat X", "median": 469}
+{"appid": "611500", "name": "Quake Champions", "median": 86}
+{"appid": "202170", "name": "Sleeping Dogs", "median": 958}
+{"appid": "386940", "name": "Ultimate Chicken Horse", "median": 330}
+{"appid": "457140", "name": "Oxygen Not Included", "median": 798}
+{"appid": "312660", "name": "Sniper Elite 4", "median": 503}
+{"appid": "550900", "name": "Metin2", "median": 136}
+{"appid": "960090", "name": "Bloons TD 6", "median": 1238}
+{"appid": "617290", "name": "Remnant: From the Ashes", "median": 1081}
+{"appid": "282070", "name": "This War of Mine", "median": 363}
+{"appid": "204880", "name": "Sins of a Solar Empire\u00ae: Rebellion", "median": 415}
+{"appid": "12110", "name": "Grand Theft Auto: Vice City", "median": 75}
+{"appid": "35700", "name": "Trine Enchanted Edition", "median": 239}
+{"appid": "379430", "name": "Kingdom Come: Deliverance", "median": 1004}
+{"appid": "424370", "name": "Wolcen: Lords of Mayhem", "median": 1249}
+{"appid": "728880", "name": "Overcooked! 2", "median": 350}
+{"appid": "766570", "name": "Russian Fishing 4", "median": 38}
+{"appid": "210770", "name": "Sanctum 2", "median": 201}
+{"appid": "389570", "name": "Mitos.is: The Game", "median": 77}
+{"appid": "33230", "name": "Assassin's Creed 2", "median": 892}
+{"appid": "1238840", "name": "Battlefield 1 \u2122", "median": 560}
+{"appid": "812140", "name": "Assassin's Creed\u00ae Odyssey", "median": 2861}
+{"appid": "214490", "name": "Alien: Isolation", "median": 241}
+{"appid": "838350", "name": "\u592a\u543e\u7ed8\u5377 The Scroll Of Taiwu", "median": 1731}
+{"appid": "50300", "name": "Spec Ops: The Line", "median": 117}
+{"appid": "630100", "name": "SoulWorker - Anime Action MMO", "median": 117}
+{"appid": "361420", "name": "ASTRONEER", "median": 696}
+{"appid": "362890", "name": "Black Mesa", "median": 521}
+{"appid": "204300", "name": "Awesomenauts - the 2D moba", "median": 268}
+{"appid": "335300", "name": "DARK SOULS\u2122 II: Scholar of the First Sin", "median": 2739}
+{"appid": "65930", "name": "The Bureau: XCOM Declassified", "median": 184}
+{"appid": "343710", "name": "Kholat", "median": 307}
+{"appid": "212070", "name": "Star Conflict", "median": 87}
+{"appid": "646910", "name": "The Crew\u2122 2", "median": 1313}
+{"appid": "310560", "name": "DiRT Rally", "median": 134}
+{"appid": "108710", "name": "Alan Wake", "median": 228}
+{"appid": "225260", "name": "Brutal Legend", "median": 273}
+{"appid": "10500", "name": "Total War: EMPIRE \u2013 Definitive Edition", "median": 601}
+{"appid": "409710", "name": "BioShock\u2122 Remastered", "median": 206}
+{"appid": "1118200", "name": "People Playground", "median": 1039}
+{"appid": "209000", "name": "Batman\u2122: Arkham Origins", "median": 671}
+{"appid": "9900", "name": "Star Trek Online", "median": 238}
+{"appid": "105450", "name": "Age of Empires\u00ae III (2007)", "median": 536}
+{"appid": "201810", "name": "Wolfenstein: The New Order", "median": 779}
+{"appid": "41070", "name": "Serious Sam 3: BFE", "median": 246}
+{"appid": "434650", "name": "Lost Castle / \u5931\u843d\u57ce\u5821", "median": 887}
+{"appid": "387290", "name": "Ori and the Blind Forest: Definitive Edition", "median": 384}
+{"appid": "268420", "name": "Aura Kingdom", "median": 104}
+{"appid": "323580", "name": "Jotun: Valhalla Edition", "median": 104}
+{"appid": "393380", "name": "Squad", "median": 1193}
+{"appid": "108600", "name": "Project Zomboid", "median": 684}
+{"appid": "12220", "name": "Grand Theft Auto: Episodes from Liberty City", "median": 0}
+{"appid": "236110", "name": "Dungeon Defenders II", "median": 157}
+{"appid": "436520", "name": "Line of Sight", "median": 46}
+{"appid": "438740", "name": "Friday the 13th: The Game", "median": 248}
+{"appid": "305620", "name": "The Long Dark", "median": 252}
+{"appid": "1254120", "name": "Bless Unleashed", "median": 115}
+{"appid": "1158310", "name": "Crusader Kings III", "median": 2223}
+{"appid": "1151340", "name": "Fallout 76", "median": 1426}
+{"appid": "50620", "name": "Darksiders\u2122", "median": 187}
+{"appid": "15620", "name": "Warhammer 40,000: Dawn of War II", "median": 474}
+{"appid": "242920", "name": "Banished", "median": 810}
+{"appid": "317360", "name": "Double Action: Boogaloo", "median": 57}
+{"appid": "1180380", "name": "Stay Out", "median": 35}
+{"appid": "221040", "name": "Resident Evil 6", "median": 672}
+{"appid": "47870", "name": "Need For Speed: Hot Pursuit", "median": 249}
+{"appid": "482730", "name": "Football Manager 2017", "median": 12307}
+{"appid": "403640", "name": "Dishonored 2", "median": 778}
+{"appid": "331470", "name": "Everlasting Summer", "median": 234}
+{"appid": "325610", "name": "Total War: ATTILA", "median": 1896}
+{"appid": "238090", "name": "Sniper Elite 3", "median": 294}
+{"appid": "35140", "name": "Batman: Arkham Asylum Game of the Year Edition", "median": 392}
+{"appid": "47890", "name": "The Sims\u2122 3", "median": 1664}
+{"appid": "346010", "name": "Besiege", "median": 209}
+{"appid": "38400", "name": "Fallout: A Post Nuclear Role Playing Game", "median": 78}
+{"appid": "4700", "name": "Total War: MEDIEVAL II \u2013 Definitive Edition", "median": 662}
+{"appid": "648350", "name": "Jurassic World Evolution", "median": 873}
+{"appid": "110800", "name": "L.A. Noire", "median": 584}
+{"appid": "412020", "name": "Metro Exodus", "median": 1090}
+{"appid": "104900", "name": "ORION: Prelude", "median": 105}
+{"appid": "388410", "name": "Darksiders II Deathinitive Edition", "median": 449}
+{"appid": "1263850", "name": "Football Manager 2021", "median": 7755}
+{"appid": "337000", "name": "Deus Ex: Mankind Divided", "median": 730}
+{"appid": "298110", "name": "Far Cry\u00ae 4", "median": 1021}
+{"appid": "1056960", "name": "Wolfenstein: Youngblood", "median": 1013}
+{"appid": "1217060", "name": "Gunfire Reborn", "median": 1319}
+{"appid": "424280", "name": "Iron Snout", "median": 47}
+{"appid": "581320", "name": "Insurgency: Sandstorm", "median": 748}
+{"appid": "480490", "name": "Prey", "median": 1123}
+{"appid": "56400", "name": "Warhammer 40,000: Dawn of War II: Retribution", "median": 603}
+{"appid": "1627140", "name": "Sabre Team", "median": 0}
+{"appid": "1196590", "name": "Resident Evil Village", "median": 896}
+{"appid": "304430", "name": "INSIDE", "median": 196}
+{"appid": "22370", "name": "Fallout 3: Game of the Year Edition", "median": 338}
+{"appid": "57690", "name": "Tropico 4", "median": 229}
+{"appid": "17390", "name": "SPORE\u2122", "median": 364}
+{"appid": "761890", "name": "Albion Online", "median": 204}
+{"appid": "40800", "name": "Super Meat Boy", "median": 110}
+{"appid": "204100", "name": "Max Payne 3", "median": 563}
+{"appid": "939960", "name": "Far Cry\u00ae New Dawn", "median": 1085}
+{"appid": "460930", "name": "Tom Clancy's Ghost Recon\u00ae Wildlands", "median": 1755}
+{"appid": "389430", "name": "Knight Online", "median": 42}
+{"appid": "307690", "name": "Sleeping Dogs: Definitive Edition", "median": 281}
+{"appid": "274170", "name": "Hotline Miami 2: Wrong Number", "median": 208}
+{"appid": "214420", "name": "Gear Up", "median": 41}
+{"appid": "245170", "name": "Skullgirls 2nd Encore", "median": 319}
+{"appid": "238010", "name": "Deus Ex: Human Revolution - Director's Cut", "median": 496}
+{"appid": "703080", "name": "Planet Zoo", "median": 615}
+{"appid": "287700", "name": "METAL GEAR SOLID V: THE PHANTOM PAIN", "median": 1269}
+{"appid": "641990", "name": "The Escapists 2", "median": 270}
+{"appid": "427730", "name": "Who's Your Daddy?!", "median": 70}
+{"appid": "266840", "name": "Age of Mythology: Extended Edition", "median": 410}
+{"appid": "67370", "name": "The Darkness II", "median": 129}
+{"appid": "254700", "name": "Resident Evil 4", "median": 392}
+{"appid": "9340", "name": "Company of Heroes: Opposing Fronts", "median": 71}
+{"appid": "113020", "name": "Monaco: What's Yours Is Mine", "median": 127}
+{"appid": "464920", "name": "Surviving Mars", "median": 224}
+{"appid": "447040", "name": "Watch_Dogs\u00ae 2", "median": 978}
+{"appid": "17470", "name": "Dead Space", "median": 191}
+{"appid": "1259420", "name": "Days Gone", "median": 1139}
+{"appid": "1057240", "name": "Crucible Beta", "median": 58}
+{"appid": "303390", "name": "Dead Bits", "median": 348}
+{"appid": "298240", "name": "War Trigger 3", "median": 40}
+{"appid": "349700", "name": "Romero's Aftermath", "median": 49}
+{"appid": "442080", "name": "Riders of Icarus", "median": 121}
+{"appid": "470220", "name": "UNO", "median": 277}
+{"appid": "274940", "name": "Depth", "median": 240}
+{"appid": "113420", "name": "Fallen Earth Free2Play", "median": 37}
+{"appid": "234650", "name": "Shadowrun Returns", "median": 238}
+{"appid": "20570", "name": "Warhammer\u00ae 40,000: Dawn of War\u00ae II Chaos Rising", "median": 619}
+{"appid": "967050", "name": "Pacify", "median": 149}
+{"appid": "24740", "name": "Burnout Paradise: The Ultimate Box", "median": 163}
+{"appid": "823130", "name": "Totally Accurate Battlegrounds", "median": 60}
+{"appid": "1515950", "name": "Capcom Arcade Stadium", "median": 362}
+{"appid": "22330", "name": "The Elder Scrolls IV: Oblivion\u00ae Game of the Year Edition", "median": 886}
+{"appid": "206500", "name": "AirMech Strike", "median": 102}
+{"appid": "270550", "name": "Yet Another Zombie Defense", "median": 239}
+{"appid": "253980", "name": "Enclave", "median": 248}
+{"appid": "1840", "name": "Source Filmmaker", "median": 70}
+{"appid": "261570", "name": "Ori and the Blind Forest", "median": 355}
+{"appid": "613100", "name": "House Flipper", "median": 750}
+{"appid": "47780", "name": "Dead Space\u2122 2", "median": 244}
+{"appid": "1190460", "name": "DEATH STRANDING", "median": 885}
+{"appid": "783770", "name": "Ironsight", "median": 71}
+{"appid": "680420", "name": "OUTRIDERS", "median": 1511}
+{"appid": "787860", "name": "Farming Simulator 19", "median": 2120}
+{"appid": "319830", "name": "AX:EL - Air XenoDawn", "median": 103}
+{"appid": "555160", "name": "Pavlov VR", "median": 456}
+{"appid": "893520", "name": "Creative Destruction", "median": 155}
+{"appid": "453480", "name": "Shadowverse CCG", "median": 205}
+{"appid": "289650", "name": "Assassin's Creed\u00ae Unity", "median": 630}
+{"appid": "24980", "name": "Mass Effect 2 (2010)", "median": 1295}
+{"appid": "901242", "name": "Mass Effect 2 Digital Deluxe Edition", "median": 0}
+{"appid": "394510", "name": "HELLDIVERS\u2122 Dive Harder Edition", "median": 411}
+{"appid": "578310", "name": "BRAIN / OUT", "median": 47}
+{"appid": "327690", "name": "Gigantic", "median": 40}
+{"appid": "224540", "name": "Ace of Spades: Battle Builder", "median": 442}
+{"appid": "233720", "name": "Surgeon Simulator", "median": 177}
+{"appid": "102600", "name": "Orcs Must Die!", "median": 267}
+{"appid": "918570", "name": "Century: Age of Ashes", "median": 55}
+{"appid": "269210", "name": "Hero Siege", "median": 317}
+{"appid": "208140", "name": "ENDLESS\u2122 Space - Definitive Edition", "median": 372}
+{"appid": "214560", "name": "Mark of the Ninja", "median": 209}
+{"appid": "750920", "name": "Shadow of the Tomb Raider: Definitive Edition", "median": 680}
+{"appid": "1128810", "name": "RISK: Global Domination", "median": 99}
+{"appid": "17080", "name": "Tribes: Ascend", "median": 147}
+{"appid": "417860", "name": "Emily is Away", "median": 42}
+{"appid": "21690", "name": "Resident Evil 5", "median": 743}
+{"appid": "244210", "name": "Assetto Corsa", "median": 327}
+{"appid": "207230", "name": "ArcheBlade\u2122", "median": 145}
+{"appid": "809960", "name": "Radical Heights", "median": 28}
+{"appid": "493340", "name": "Planet Coaster", "median": 302}
+{"appid": "678950", "name": "DRAGON BALL FighterZ", "median": 734}
+{"appid": "881100", "name": "Noita", "median": 527}
+{"appid": "1466860", "name": "Age of Empires IV", "median": 1332}
+{"appid": "206440", "name": "To the Moon", "median": 218}
+{"appid": "238370", "name": "Magicka 2", "median": 249}
+{"appid": "433340", "name": "Slime Rancher", "median": 449}
+{"appid": "3910", "name": "Sid Meier's Civilization\u00ae III Complete", "median": 17}
+{"appid": "41700", "name": "S.T.A.L.K.E.R.: Call of Pripyat", "median": 353}
+{"appid": "911400", "name": "Assassin's Creed\u00ae III Remastered", "median": 235}
+{"appid": "244450", "name": "Men of War: Assault Squad 2", "median": 1435}
+{"appid": "342200", "name": "MechWarrior Online\u2122 Solaris 7", "median": 99}
+{"appid": "233860", "name": "Kenshi", "median": 3851}
+{"appid": "427270", "name": "Orcs Must Die! Unchained", "median": 88}
+{"appid": "4570", "name": "Warhammer\u00ae 40,000: Dawn of War\u00ae - Game of the Year Edition", "median": 213}
+{"appid": "4920", "name": "Natural Selection 2", "median": 179}
+{"appid": "537180", "name": "Digimon Masters Online", "median": 61}
+{"appid": "228200", "name": "Company of Heroes", "median": 371}
+{"appid": "212160", "name": "Vindictus", "median": 211}
+{"appid": "524220", "name": "NieR:Automata\u2122", "median": 1036}
+{"appid": "7940", "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae", "median": 550}
+{"appid": "848450", "name": "Subnautica: Below Zero", "median": 1115}
+{"appid": "645630", "name": "Car Mechanic Simulator 2018", "median": 805}
+{"appid": "841370", "name": "NBA 2K19", "median": 3974}
+{"appid": "491950", "name": "Orwell: Keeping an Eye On You", "median": 245}
+{"appid": "312530", "name": "Duck Game", "median": 498}
+{"appid": "976310", "name": "Mortal Kombat\u00a011", "median": 785}
+{"appid": "215080", "name": "WAKFU", "median": 108}
+{"appid": "485510", "name": "Nioh: Complete Edition / \u4ec1\u738b Complete Edition", "median": 1661}
+{"appid": "34030", "name": "Total War: NAPOLEON \u2013 Definitive Edition", "median": 721}
+{"appid": "32370", "name": "STAR WARS\u2122 - Knights of the Old Republic\u2122", "median": 329}
+{"appid": "225080", "name": "Brothers - A Tale of Two Sons", "median": 62}
+{"appid": "368230", "name": "Kingdom: Classic", "median": 207}
+{"appid": "788100", "name": "Neon Abyss", "median": 792}
+{"appid": "706990", "name": "BLOCKPOST", "median": 0}
+{"appid": "900883", "name": "The Elder Scrolls IV: Oblivion\u00ae Game of the Year Edition Deluxe", "median": 0}
+{"appid": "364470", "name": "The Elder Scrolls\u00ae: Legends\u2122", "median": 129}
+{"appid": "239820", "name": "Game Dev Tycoon", "median": 614}
+{"appid": "47790", "name": "Medal of Honor\u2122", "median": 129}
+{"appid": "638070", "name": "Murderous Pursuits", "median": 302}
+{"appid": "612880", "name": "Wolfenstein II: The New Colossus", "median": 777}
+{"appid": "17460", "name": "Mass Effect (2007)", "median": 830}
+{"appid": "365450", "name": "Hacknet", "median": 287}
+{"appid": "1399780", "name": "Spellbreak", "median": 57}
+{"appid": "242860", "name": "Verdun", "median": 294}
+{"appid": "4500", "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl", "median": 358}
+{"appid": "414340", "name": "Hellblade: Senua's Sacrifice", "median": 221}
+{"appid": "6860", "name": "Hitman: Blood Money", "median": 229}
+{"appid": "510840", "name": "Evolvation", "median": 308}
+{"appid": "287290", "name": "Resident Evil Revelations 2", "median": 171}
+{"appid": "65980", "name": "Sid Meier's Civilization\u00ae: Beyond Earth\u2122", "median": 993}
+{"appid": "392110", "name": "ENDLESS\u2122 Space 2", "median": 1051}
+{"appid": "41500", "name": "Torchlight", "median": 819}
+{"appid": "268050", "name": "The Evil Within", "median": 368}
+{"appid": "637090", "name": "BATTLETECH", "median": 2551}
+{"appid": "12200", "name": "Bully: Scholarship Edition", "median": 216}
+{"appid": "774861", "name": "Project Winter", "median": 294}
+{"appid": "248820", "name": "Risk of Rain", "median": 287}
+{"appid": "466560", "name": "Northgard", "median": 570}
+{"appid": "239160", "name": "Thief", "median": 368}
+{"appid": "738060", "name": "Freddy Fazbear's Pizzeria Simulator", "median": 59}
+{"appid": "237310", "name": "Elsword", "median": 119}
+{"appid": "40100", "name": "Supreme Commander 2", "median": 1181}
+{"appid": "367500", "name": "Dragon's Dogma: Dark Arisen", "median": 639}
+{"appid": "265210", "name": "Viscera Cleanup Detail: Santa's Rampage", "median": 109}
+{"appid": "637650", "name": "FINAL FANTASY XV WINDOWS EDITION", "median": 1030}
+{"appid": "447820", "name": "Day of Infamy", "median": 586}
+{"appid": "291650", "name": "Pillars of Eternity", "median": 1250}
+{"appid": "218680", "name": "Scribblenauts Unlimited", "median": 270}
+{"appid": "102500", "name": "Kingdoms of Amalur: Reckoning\u2122", "median": 1665}
+{"appid": "1222680", "name": "Need for Speed\u2122 Heat", "median": 651}
+{"appid": "414700", "name": "Outlast 2", "median": 202}
+{"appid": "519860", "name": "DUSK", "median": 346}
+{"appid": "308600", "name": "Geneshift", "median": 324}
+{"appid": "209170", "name": "Call of Duty\u00ae: Ghosts", "median": 448}
+{"appid": "527230", "name": "For The King", "median": 956}
+{"appid": "1222670", "name": "The Sims\u2122 4", "median": 487}
+{"appid": "237930", "name": "Transistor", "median": 182}
+{"appid": "633230", "name": "NARUTO TO BORUTO: SHINOBI STRIKER", "median": 736}
+{"appid": "527430", "name": "Warhammer 40,000: Inquisitor - Martyr", "median": 827}
+{"appid": "644930", "name": "They Are Billions", "median": 1554}
+{"appid": "56437", "name": "Warhammer 40,000: Dawn of War II: Retribution", "median": 0}
+{"appid": "224760", "name": "FEZ", "median": 102}
+{"appid": "474960", "name": "Quantum Break", "median": 428}
+{"appid": "349040", "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4", "median": 506}
+{"appid": "228280", "name": "Baldur's Gate: Enhanced Edition", "median": 622}
+{"appid": "577800", "name": "NBA 2K18", "median": 3037}
+{"appid": "209670", "name": "Cortex Command", "median": 180}
+{"appid": "252150", "name": "Grimm", "median": 265}
+{"appid": "729040", "name": "Borderlands Game of the Year Enhanced", "median": 238}
+{"appid": "448470", "name": "Bacteria", "median": 388}
+{"appid": "22320", "name": "The Elder Scrolls III: Morrowind\u00ae Game of the Year Edition", "median": 129}
+{"appid": "1454400", "name": "Cookie Clicker", "median": 7726}
+{"appid": "4760", "name": "Rome: Total War\u2122 - Collection", "median": 370}
+{"appid": "686810", "name": "Hell Let Loose", "median": 511}
+{"appid": "621060", "name": "PC Building Simulator", "median": 369}
+{"appid": "582500", "name": "We Were Here", "median": 86}
+{"appid": "322500", "name": "SUPERHOT", "median": 196}
+{"appid": "418460", "name": "Rising Storm 2: Vietnam", "median": 842}
+{"appid": "678960", "name": "CODE VEIN", "median": 1287}
+{"appid": "924970", "name": "Back 4 Blood", "median": 1089}
+{"appid": "32800", "name": "Lord of the Rings: War in the North", "median": 248}
+{"appid": "1520470", "name": "Soul Dossier", "median": 68}
+{"appid": "438040", "name": "Shakes and Fidget", "median": 267}
+{"appid": "569480", "name": "Kingdoms and Castles", "median": 413}
+{"appid": "554620", "name": "Life is Strange: Before the Storm", "median": 635}
+{"appid": "6880", "name": "Just Cause", "median": 40}
+{"appid": "1313860", "name": "EA SPORTS\u2122 FIFA 21", "median": 4632}
+{"appid": "261110", "name": "Killer is Dead - Nightmare Edition", "median": 176}
+{"appid": "237110", "name": "Mortal Kombat Komplete Edition", "median": 263}
+{"appid": "96100", "name": "Defy Gravity Extended", "median": 140}
+{"appid": "302510", "name": "Ryse: Son of Rome", "median": 306}
+{"appid": "289130", "name": "ENDLESS\u2122 Legend", "median": 573}
+{"appid": "240320", "name": "Panzar", "median": 173}
+{"appid": "730310", "name": "DYNASTY WARRIORS 9", "median": 83}
+{"appid": "247120", "name": "Portal 2 Sixense Perceptual Pack", "median": 20}
+{"appid": "952060", "name": "Resident Evil 3", "median": 695}
+{"appid": "462780", "name": "Darksiders Warmastered Edition", "median": 230}
+{"appid": "346330", "name": "BrainBread 2", "median": 35}
+{"appid": "1407200", "name": "World of Tanks", "median": 174}
+{"appid": "319510", "name": "Five Nights at Freddy's", "median": 129}
+{"appid": "26800", "name": "Braid", "median": 86}
+{"appid": "872790", "name": "Football Manager 2019", "median": 5739}
+{"appid": "1343370", "name": "Old School RuneScape", "median": 49}
+{"appid": "24780", "name": "SimCity\u2122 4 Deluxe Edition", "median": 258}
+{"appid": "285900", "name": "Gang Beasts", "median": 199}
+{"appid": "606280", "name": "Darksiders III", "median": 718}
+{"appid": "47810", "name": "Dragon Age: Origins - Ultimate Edition", "median": 543}
+{"appid": "20540", "name": "Company of Heroes: Tales of Valor", "median": 353}
+{"appid": "1274570", "name": "DEVOUR", "median": 160}
+{"appid": "263500", "name": "Dragons and Titans", "median": 25}
+{"appid": "108800", "name": "Crysis 2 - Maximum Edition", "median": 366}
+{"appid": "65790", "name": "ARMA: Cold War Assault", "median": 21}
+{"appid": "21090", "name": "F.E.A.R.", "median": 220}
+{"appid": "1483870", "name": "Draw & Guess", "median": 277}
+{"appid": "10680", "name": "Aliens vs. Predator\u2122", "median": 273}
+{"appid": "471710", "name": "Rec Room", "median": 149}
+{"appid": "332070", "name": "School of Dragons", "median": 32}
+{"appid": "55110", "name": "Red Faction\u00ae: Armageddon\u2122", "median": 144}
+{"appid": "21100", "name": "F.E.A.R. 3", "median": 224}
+{"appid": "1238860", "name": "Battlefield 4\u2122", "median": 470}
+{"appid": "767560", "name": "War Robots", "median": 39}
+{"appid": "636480", "name": "Ravenfield", "median": 850}
+{"appid": "220440", "name": "DmC: Devil May Cry", "median": 292}
+{"appid": "287450", "name": "Rise of Nations: Extended Edition", "median": 435}
+{"appid": "232890", "name": "Stronghold Crusader 2", "median": 293}
+{"appid": "1213210", "name": "Command & Conquer\u2122 Remastered Collection", "median": 1098}
+{"appid": "39140", "name": "FINAL FANTASY VII", "median": 1094}
+{"appid": "437920", "name": "Tricky Towers", "median": 165}
+{"appid": "241600", "name": "Rogue Legacy", "median": 508}
+{"appid": "285190", "name": "Warhammer 40,000: Dawn of War III", "median": 394}
+{"appid": "583950", "name": "Artifact", "median": 969}
+{"appid": "368370", "name": "Her Story", "median": 183}
+{"appid": "49540", "name": "Aliens: Colonial Marines Collection", "median": 637}
+{"appid": "774171", "name": "Muse Dash", "median": 162}
+{"appid": "242700", "name": "Injustice: Gods Among Us Ultimate Edition", "median": 119}
+{"appid": "17300", "name": "Crysis", "median": 374}
+{"appid": "314160", "name": "Microsoft Flight Simulator X: Steam Edition", "median": 185}
+{"appid": "204340", "name": "Serious Sam 2", "median": 181}
+{"appid": "383080", "name": "Sakura Clicker", "median": 48}
+{"appid": "245620", "name": "Tropico 5", "median": 451}
+{"appid": "638970", "name": "Yakuza 0", "median": 1415}
+{"appid": "350640", "name": "Sherlock Holmes: The Devil's Daughter", "median": 329}
+{"appid": "70000", "name": "Dino D-Day", "median": 141}
+{"appid": "696370", "name": "BROKE PROTOCOL: Online City RPG", "median": 424}
+{"appid": "460950", "name": "Katana ZERO", "median": 320}
+{"appid": "1522820", "name": "Orcs Must Die! 3", "median": 610}
+{"appid": "544810", "name": "KARDS - The WWII Card Game", "median": 61}
+{"appid": "740130", "name": "Tales of Arise", "median": 2395}
+{"appid": "418240", "name": "Shadow Tactics: Blades of the Shogun", "median": 298}
+{"appid": "228380", "name": "Wreckfest", "median": 447}
+{"appid": "1551360", "name": "Forza Horizon 5", "median": 2309}
+{"appid": "19900", "name": "Far Cry\u00ae 2: Fortune's Edition", "median": 131}
+{"appid": "32430", "name": "STAR WARS\u2122 - The Force Unleashed\u2122 Ultimate Sith Edition", "median": 217}
+{"appid": "444640", "name": "Bloons TD Battles", "median": 118}
+{"appid": "293180", "name": "Overcast - Walden and the Werewolf", "median": 224}
+{"appid": "304240", "name": "Resident Evil", "median": 445}
+{"appid": "640820", "name": "Pathfinder: Kingmaker - Enhanced Plus Edition", "median": 3273}
+{"appid": "3900", "name": "Sid Meier's Civilization\u00ae IV", "median": 292}
+{"appid": "814480", "name": "Mini World: Block Art", "median": 634}
+{"appid": "265590", "name": "The Red Solstice", "median": 262}
+{"appid": "723780", "name": "Modern Combat Versus", "median": 38}
+{"appid": "9450", "name": "Warhammer\u00ae 40,000: Dawn of War\u00ae - Soulstorm", "median": 670}
+{"appid": "6910", "name": "Deus Ex: Game of the Year Edition", "median": 78}
+{"appid": "666220", "name": "CS2D", "median": 15}
+{"appid": "22350", "name": "BRINK", "median": 106}
+{"appid": "206480", "name": "Dungeons & Dragons Online\u00ae", "median": 233}
+{"appid": "1284410", "name": "GWENT: The Witcher Card Game", "median": 86}
+{"appid": "16810", "name": "Sid Meier's Civilization IV: Colonization", "median": 1453}
+{"appid": "629520", "name": "Soundpad", "median": 3980}
+{"appid": "12900", "name": "AudioSurf", "median": 136}
+{"appid": "511470", "name": "Glass Masquerade", "median": 271}
+{"appid": "373420", "name": "Divinity: Original Sin - Enhanced Edition", "median": 615}
+{"appid": "2400", "name": "The Ship: Murder Party", "median": 207}
+{"appid": "1238000", "name": "Mass Effect\u2122: Andromeda Deluxe Edition", "median": 2976}
+{"appid": "251060", "name": "Wargame: Red Dragon", "median": 419}
+{"appid": "216150", "name": "MapleStory", "median": 129}
+{"appid": "21120", "name": "F.E.A.R.", "median": 470}
+{"appid": "21110", "name": "F.E.A.R.", "median": 303}
+{"appid": "535930", "name": "Two Point Hospital", "median": 296}
+{"appid": "834910", "name": "ATLAS", "median": 1438}
+{"appid": "244930", "name": "SNOW - The Ultimate Edition", "median": 46}
+{"appid": "298630", "name": "The Escapists", "median": 377}
+{"appid": "226700", "name": "Infestation: Survivor Stories 2020", "median": 1193}
+{"appid": "34870", "name": "Sniper: Ghost Warrior 2", "median": 159}
+{"appid": "17330", "name": "Crysis Warhead\u00ae", "median": 296}
+{"appid": "250400", "name": "How to Survive", "median": 249}
+{"appid": "323850", "name": "Move or Die", "median": 101}
+{"appid": "292910", "name": "Deponia: The Complete Journey", "median": 264}
+{"appid": "558100", "name": "Art of War: Red Tides", "median": 91}
+{"appid": "383870", "name": "Firewatch", "median": 254}
+{"appid": "6850", "name": "Hitman 2: Silent Assassin", "median": 32}
+{"appid": "71340", "name": "Sonic Generations Collection", "median": 82}
+{"appid": "39000", "name": "Moonbase Alpha", "median": 31}
+{"appid": "226840", "name": "Age of Wonders III", "median": 114}
+{"appid": "235540", "name": "Warhammer: End Times - Vermintide", "median": 321}
+{"appid": "6000", "name": "STAR WARS\u2122 Republic Commando\u2122", "median": 208}
+{"appid": "629730", "name": "Blade and Sorcery", "median": 507}
+{"appid": "1222700", "name": "A Way Out", "median": 333}
+{"appid": "376210", "name": "The Isle", "median": 1457}
+{"appid": "34270", "name": "SEGA Mega Drive and Genesis Classics", "median": 27}
+{"appid": "230230", "name": "Divinity: Original Sin (Classic)", "median": 699}
+{"appid": "460920", "name": "Steep\u2122", "median": 314}
+{"appid": "48190", "name": "Assassin\u2019s Creed\u00ae Brotherhood", "median": 923}
+{"appid": "6020", "name": "STAR WARS\u2122 Jedi Knight - Jedi Academy\u2122", "median": 259}
+{"appid": "368500", "name": "Assassin's Creed\u00ae Syndicate", "median": 892}
+{"appid": "200170", "name": "Worms Revolution", "median": 191}
+{"appid": "212740", "name": "TERA - Action MMORPG", "median": 210}
+{"appid": "257510", "name": "The Talos Principle", "median": 452}
+{"appid": "1229490", "name": "ULTRAKILL", "median": 455}
+{"appid": "302670", "name": "Call to Arms", "median": 325}
+{"appid": "205230", "name": "Hell Yeah! Wrath of the Dead Rabbit", "median": 54}
+{"appid": "530620", "name": "Resident Evil 7 Teaser: Beginning Hour", "median": 23}
+{"appid": "31280", "name": "Poker Night at the Inventory", "median": 137}
+{"appid": "429470", "name": "Space Pilgrim Episode I: Alpha Centauri", "median": 243}
+{"appid": "215280", "name": "Secret World Legends", "median": 293}
+{"appid": "382490", "name": "Relic Hunters Zero: Remix", "median": 61}
+{"appid": "297000", "name": "Heroes\u00ae of Might & Magic\u00ae III - HD Edition", "median": 865}
+{"appid": "657200", "name": "Hand Simulator", "median": 117}
+{"appid": "680780", "name": "DEATH TRAIN - Warning: Unsafe VR Experience", "median": 250}
+{"appid": "448510", "name": "Overcooked", "median": 230}
+{"appid": "683320", "name": "GRIS", "median": 161}
+{"appid": "334230", "name": "Town of Salem", "median": 642}
+{"appid": "239350", "name": "Spelunky", "median": 181}
+{"appid": "1092790", "name": "Inscryption", "median": 716}
+{"appid": "257350", "name": "Baldur's Gate II: Enhanced Edition", "median": 645}
+{"appid": "360430", "name": "Mafia III: Definitive Edition", "median": 909}
+{"appid": "304030", "name": "ArcheAge", "median": 412}
+{"appid": "1343400", "name": "RuneScape \u00ae", "median": 98}
+{"appid": "282140", "name": "SOMA", "median": 387}
+{"appid": "459820", "name": "Crush Crush", "median": 392}
+{"appid": "516750", "name": "My Summer Car", "median": 1124}
+{"appid": "1404210", "name": "Red Dead Online", "median": 556}
+{"appid": "270150", "name": "RUNNING WITH RIFLES", "median": 495}
+{"appid": "675010", "name": "MudRunner", "median": 649}
+{"appid": "356670", "name": "Spooky's Jump Scare Mansion", "median": 31}
+{"appid": "457330", "name": "High Octane Drift", "median": 16}
+{"appid": "1353950", "name": "Ring of Fire: Prologue", "median": 0}
+{"appid": "234630", "name": "Project CARS", "median": 261}
+{"appid": "246900", "name": "Viscera Cleanup Detail", "median": 385}
+{"appid": "235600", "name": "Tom Clancy\u2019s Splinter Cell Blacklist", "median": 905}
+{"appid": "602960", "name": "Barotrauma", "median": 596}
+{"appid": "544730", "name": "Catan Universe", "median": 138}
+{"appid": "202750", "name": "Alan Wake's American Nightmare", "median": 150}
+{"appid": "450390", "name": "The Lab", "median": 43}
+{"appid": "249130", "name": "LEGO\u00ae Marvel\u2122 Super Heroes", "median": 818}
+{"appid": "690790", "name": "DiRT Rally 2.0", "median": 532}
+{"appid": "1237950", "name": "STAR WARS\u2122 Battlefront\u2122 II", "median": 894}
+{"appid": "460790", "name": "Bayonetta", "median": 229}
+{"appid": "1172380", "name": "STAR WARS Jedi: Fallen Order\u2122", "median": 1022}
+{"appid": "4580", "name": "Warhammer\u00ae 40,000: Dawn of War\u00ae - Dark Crusade", "median": 311}
+{"appid": "437220", "name": "The Culling", "median": 188}
+{"appid": "536930", "name": "MOBIUS FINAL FANTASY\u2122", "median": 45}
+{"appid": "339280", "name": "Strife\u00ae", "median": 52}
+{"appid": "571740", "name": "Golf It!", "median": 387}
+{"appid": "209160", "name": "Call of Duty\u00ae: Ghosts", "median": 347}
+{"appid": "261030", "name": "The Walking Dead: Season Two", "median": 602}
+{"appid": "570940", "name": "DARK SOULS\u2122: REMASTERED", "median": 1350}
+{"appid": "632470", "name": "Disco Elysium - The Final Cut", "median": 342}
+{"appid": "301640", "name": "Zombie Army Trilogy", "median": 228}
+{"appid": "233270", "name": "Far Cry 3 - Blood Dragon", "median": 255}
+{"appid": "235460", "name": "METAL GEAR RISING: REVENGEANCE", "median": 460}
+{"appid": "41000", "name": "Serious Sam HD: The First Encounter", "median": 234}
+{"appid": "311340", "name": "METAL GEAR SOLID V: GROUND ZEROES", "median": 128}
+{"appid": "475550", "name": "Beholder", "median": 182}
+{"appid": "504230", "name": "Celeste", "median": 576}
+{"appid": "313120", "name": "Stranded Deep", "median": 345}
+{"appid": "1151640", "name": "Horizon Zero Dawn\u2122 Complete Edition", "median": 967}
+{"appid": "567630", "name": "Blood of Steel", "median": 188}
+{"appid": "22000", "name": "World of Goo", "median": 104}
+{"appid": "378540", "name": "The Surge", "median": 339}
+{"appid": "335330", "name": "Brick-Force", "median": 40}
+{"appid": "921060", "name": "Modern Combat 5", "median": 82}
+{"appid": "652410", "name": "Brigand: Oaxaca", "median": 0}
+{"appid": "2100", "name": "Dark Messiah of Might & Magic", "median": 115}
+{"appid": "445980", "name": "Wizard of Legend", "median": 274}
+{"appid": "942970", "name": "Unheard", "median": 292}
+{"appid": "15100", "name": "Assassin's Creed\u2122: Director's Cut Edition", "median": 582}
+{"appid": "627690", "name": "Idle Champions of the Forgotten Realms", "median": 121}
+{"appid": "23490", "name": "Tropico 3", "median": 179}
+{"appid": "962130", "name": "Grounded", "median": 731}
+{"appid": "1408720", "name": "Krunker", "median": 0}
+{"appid": "1134570", "name": "F1\u00ae 2021", "median": 1447}
+{"appid": "969990", "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated", "median": 415}
+{"appid": "337950", "name": "The SKIES - BETA", "median": 24}
+{"appid": "341800", "name": "Keep Talking and Nobody Explodes", "median": 174}
+{"appid": "332950", "name": "Dark Deception", "median": 39}
+{"appid": "1058020", "name": "STAR WARS\u2122 Battlefront (Classic, 2004)", "median": 171}
+{"appid": "668630", "name": "Tricolour Lovestory", "median": 260}
+{"appid": "250320", "name": "The Wolf Among Us", "median": 503}
+{"appid": "815370", "name": "Green Hell", "median": 553}
+{"appid": "293540", "name": "Guns and Robots", "median": 20}
+{"appid": "6900", "name": "Hitman: Codename 47", "median": 27}
+{"appid": "378860", "name": "Project CARS 2", "median": 492}
+{"appid": "278080", "name": "DYNASTY WARRIORS 8: Xtreme Legends Complete Edition", "median": 2388}
+{"appid": "380840", "name": "Teeworlds", "median": 54}
+{"appid": "1154790", "name": "XIII", "median": 0}
+{"appid": "262280", "name": "Dungeons 2", "median": 352}
+{"appid": "238430", "name": "Contagion", "median": 217}
+{"appid": "492720", "name": "Tropico 6", "median": 1128}
+{"appid": "12810", "name": "Overlord II", "median": 263}
+{"appid": "1258080", "name": "Shop Titans", "median": 69}
+{"appid": "208580", "name": "STAR WARS\u2122 Knights of the Old Republic\u2122 II - The Sith Lords\u2122", "median": 378}
+{"appid": "715210", "name": "The Pillage", "median": 49}
+{"appid": "17570", "name": "Pirates, Vikings, and Knights II", "median": 27}
+{"appid": "329110", "name": "Gems of War - Puzzle RPG", "median": 513}
+{"appid": "282660", "name": "Easy\u2122 eSports", "median": 160}
+{"appid": "326460", "name": "ShellShock Live", "median": 625}
+{"appid": "339800", "name": "HuniePop", "median": 826}
+{"appid": "1226470", "name": "Shadow Arena", "median": 154}
+{"appid": "311860", "name": "Data Hacker: Initiation", "median": 316}
+{"appid": "9880", "name": "Champions Online", "median": 206}
+{"appid": "476600", "name": "Call of Duty\u00ae: WWII", "median": 379}
+{"appid": "20500", "name": "Red Faction Guerrilla Steam Edition", "median": 221}
+{"appid": "214340", "name": "Deponia", "median": 284}
+{"appid": "236090", "name": "Dust: An Elysian Tail", "median": 307}
+{"appid": "1282730", "name": "Loop Hero", "median": 576}
+{"appid": "466910", "name": "Worm.is: The Game", "median": 29}
+{"appid": "367450", "name": "Poly Bridge", "median": 179}
+{"appid": "1049410", "name": "Superliminal", "median": 107}
+{"appid": "996470", "name": "eFootball  PES 2020", "median": 852}
+{"appid": "689580", "name": "TurnSignal", "median": 5758}
+{"appid": "308040", "name": "Back to Bed", "median": 186}
+{"appid": "6920", "name": "Deus Ex: Invisible War", "median": 49}
+{"appid": "258970", "name": "Gauntlet\u2122 Slayer Edition", "median": 345}
+{"appid": "293260", "name": "Card Hunter", "median": 236}
+{"appid": "32500", "name": "STAR WARS\u2122: The Force Unleashed\u2122 II", "median": 195}
+{"appid": "648120", "name": "Pixel Painter", "median": 252}
+{"appid": "17430", "name": "Need for Speed Undercover", "median": 134}
+{"appid": "495420", "name": "State of Decay 2: Juggernaut Edition", "median": 710}
+{"appid": "222480", "name": "Resident Evil Revelations", "median": 344}
+{"appid": "410320", "name": "EARTH DEFENSE FORCE 4.1 The Shadow of New Despair", "median": 755}
+{"appid": "376570", "name": "WildStar", "median": 101}
+{"appid": "42960", "name": "Victoria II", "median": 1177}
+{"appid": "208480", "name": "Assassin\u2019s Creed\u00ae III", "median": 1287}
+{"appid": "794600", "name": "LET IT DIE", "median": 708}
+{"appid": "2280", "name": "Ultimate Doom", "median": 25}
+{"appid": "622650", "name": "Bendy and the Ink Machine", "median": 42}
+{"appid": "955050", "name": "Bright Memory", "median": 57}
+{"appid": "40390", "name": "Risen 2: Dark Waters", "median": 635}
+{"appid": "2700", "name": "RollerCoaster Tycoon\u00ae 3: Platinum", "median": 917}
+{"appid": "92800", "name": "SpaceChem", "median": 115}
+{"appid": "219890", "name": "Antichamber", "median": 161}
+{"appid": "57900", "name": "Duke Nukem Forever", "median": 321}
+{"appid": "7760", "name": "X-COM: UFO Defense", "median": 99}
+{"appid": "666140", "name": "My Time At Portia", "median": 1400}
+{"appid": "47410", "name": "Stronghold Kingdoms", "median": 155}
+{"appid": "324800", "name": "Shadow Warrior 2", "median": 637}
+{"appid": "20510", "name": "S.T.A.L.K.E.R.: Clear Sky", "median": 355}
+{"appid": "1335200", "name": "Action Taimanin", "median": 88}
+{"appid": "2310", "name": "QUAKE", "median": 140}
+{"appid": "1222140", "name": "Detroit: Become Human", "median": 589}
+{"appid": "221640", "name": "Super Hexagon", "median": 70}
+{"appid": "1377580", "name": "Soulworker", "median": 124}
+{"appid": "236430", "name": "DARK SOULS\u2122 II", "median": 4275}
+{"appid": "212480", "name": "Sonic & All-Stars Racing Transformed Collection", "median": 325}
+{"appid": "1220010", "name": "Home Behind 2", "median": 1358}
+{"appid": "1030840", "name": "Mafia: Definitive Edition", "median": 587}
+{"appid": "201870", "name": "Assassin's Creed\u00ae Revelations", "median": 796}
+{"appid": "599140", "name": "Graveyard Keeper", "median": 1109}
+{"appid": "1080110", "name": "F1\u00ae 2020", "median": 1834}
+{"appid": "552100", "name": "Brick Rigs", "median": 585}
+{"appid": "214510", "name": "LEGO\u00ae The Lord of the Rings\u2122", "median": 114}
+{"appid": "244160", "name": "Homeworld Remastered Collection", "median": 359}
+{"appid": "331360", "name": "Heavy Metal Machines", "median": 62}
+{"appid": "1930", "name": "Two Worlds Epic Edition", "median": 415}
+{"appid": "9200", "name": "RAGE", "median": 580}
+{"appid": "205950", "name": "Jet Set Radio", "median": 26}
+{"appid": "752590", "name": "A Plague Tale: Innocence", "median": 433}
+{"appid": "32440", "name": "LEGO\u00ae Star Wars\u2122 - The Complete Saga", "median": 206}
+{"appid": "290340", "name": "Armello", "median": 322}
+{"appid": "383980", "name": "Rivals of Aether", "median": 258}
+{"appid": "1173690", "name": "Resident Evil 3: Raccoon City Demo", "median": 0}
+{"appid": "1113000", "name": "Persona 4 Golden", "median": 1291}
+{"appid": "1444740", "name": "Maniac Path", "median": 0}
+{"appid": "212800", "name": "Super Crate Box", "median": 53}
+{"appid": "374040", "name": "Portal Knights", "median": 611}
+{"appid": "48720", "name": "Mount & Blade: With Fire & Sword", "median": 429}
+{"appid": "329050", "name": "Devil May Cry 4 Special Edition", "median": 401}
+{"appid": "38420", "name": "Fallout Tactics: Brotherhood of Steel", "median": 110}
+{"appid": "215790", "name": "Dream Pinball 3D", "median": 292}
+{"appid": "333420", "name": "Cossacks 3", "median": 2720}
+{"appid": "736190", "name": "Chinese Parents", "median": 491}
+{"appid": "239200", "name": "Amnesia: A Machine for Pigs", "median": 114}
+{"appid": "835860", "name": "Dreadnought", "median": 256}
+{"appid": "39500", "name": "Gothic\u00ae 3", "median": 405}
+{"appid": "232050", "name": "Eador. Masters of the Broken World", "median": 278}
+{"appid": "1506830", "name": "FIFA 22", "median": 1594}
+{"appid": "490220", "name": "Prismata", "median": 429}
+{"appid": "91600", "name": "Sanctum", "median": 212}
+{"appid": "505460", "name": "Foxhole", "median": 1319}
+{"appid": "9420", "name": "Supreme Commander: Forged Alliance", "median": 1318}
+{"appid": "243470", "name": "Watch_Dogs\u2122", "median": 1324}
+{"appid": "704850", "name": "Thief Simulator", "median": 347}
+{"appid": "32470", "name": "STAR WARS\u2122 Empire at War - Gold Pack", "median": 365}
+{"appid": "298260", "name": "Only If", "median": 27}
+{"appid": "601430", "name": "The Evil Within 2", "median": 692}
+{"appid": "3990", "name": "Civilization IV\u00ae: Warlords", "median": 1428}
+{"appid": "38410", "name": "Fallout 2: A Post Nuclear Role Playing Game", "median": 124}
+{"appid": "17450", "name": "Dragon Age: Origins", "median": 1386}
+{"appid": "1259970", "name": "eFootball PES 2021 SEASON UPDATE", "median": 490}
+{"appid": "236690", "name": "Blood Bowl 2", "median": 1957}
+{"appid": "115320", "name": "Prototype 2", "median": 441}
+{"appid": "681660", "name": "Bless Online", "median": 183}
+{"appid": "1536610", "name": "OpenTTD", "median": 0}
+{"appid": "1139900", "name": "Ghostrunner", "median": 423}
+{"appid": "235340", "name": "Prime World", "median": 181}
+{"appid": "253900", "name": "Knights and Merchants", "median": 260}
+{"appid": "688470", "name": "\u6c49\u5308\u51b3\u6218/Han Xiongnu Wars", "median": 5638}
+{"appid": "667890", "name": "Dead Maze", "median": 142}
+{"appid": "234710", "name": "Poker Night 2", "median": 298}
+{"appid": "447020", "name": "Farming Simulator 17", "median": 2551}
+{"appid": "428950", "name": "Kivi, Toilet and Shotgun", "median": 210}
+{"appid": "217200", "name": "Worms Armageddon", "median": 82}
+{"appid": "368070", "name": "Sniper Ghost Warrior 3", "median": 464}
+{"appid": "393420", "name": "Hurtworld", "median": 975}
+{"appid": "107310", "name": "Cthulhu Saves the World", "median": 166}
+{"appid": "1266680", "name": "Strobophagia | Rave Horror", "median": 0}
+{"appid": "394230", "name": "Battleborn", "median": 276}
+{"appid": "233290", "name": "Murdered: Soul Suspect", "median": 251}
+{"appid": "977950", "name": "A Dance of Fire and Ice", "median": 312}
+{"appid": "208200", "name": "Doom 3: BFG Edition", "median": 115}
+{"appid": "11450", "name": "Overlord\u2122", "median": 165}
+{"appid": "347560", "name": "Terra Incognita ~ Chapter One: The Descendant", "median": 210}
+{"appid": "254060", "name": "KnightShift", "median": 296}
+{"appid": "1207590", "name": "Builders of Egypt: Prologue", "median": 0}
+{"appid": "13140", "name": "America's Army 3", "median": 77}
+{"appid": "232010", "name": "Euro Truck Simulator", "median": 43}
+{"appid": "931690", "name": "Himno", "median": 9}
+{"appid": "454650", "name": "DRAGON BALL XENOVERSE 2", "median": 1793}
+{"appid": "446150", "name": "GUNS UP!", "median": 100}
+{"appid": "22100", "name": "Mount & Blade", "median": 270}
+{"appid": "274900", "name": "Murder Miners", "median": 161}
+{"appid": "323910", "name": "SteamVR Performance Test", "median": 0}
+{"appid": "418070", "name": "Turbo Pug", "median": 210}
+{"appid": "226860", "name": "Galactic Civilizations III", "median": 445}
+{"appid": "1025580", "name": "Vainglory", "median": 0}
+{"appid": "383120", "name": "Empyrion - Galactic Survival", "median": 1301}
+{"appid": "17480", "name": "Command & Conquer: Red Alert 3", "median": 555}
+{"appid": "22600", "name": "Worms Reloaded", "median": 222}
+{"appid": "711810", "name": "Never Split the Party", "median": 48}
+{"appid": "513780", "name": "Turbo Pug DX", "median": 222}
+{"appid": "553640", "name": "ICEY", "median": 131}
+{"appid": "304650", "name": "SUNLESS SEA", "median": 405}
+{"appid": "242640", "name": "Styx: Master of Shadows", "median": 262}
+{"appid": "211160", "name": "Viking: Battle for Asgard", "median": 158}
+{"appid": "692850", "name": "Bloodstained: Ritual of the Night", "median": 1191}
+{"appid": "268870", "name": "Satellite Reign", "median": 192}
+{"appid": "606150", "name": "Moonlighter", "median": 466}
+{"appid": "479130", "name": "ESEA", "median": 7}
+{"appid": "635260", "name": "CarX Drift Racing Online", "median": 1256}
+{"appid": "40950", "name": "Stronghold HD", "median": 335}
+{"appid": "870780", "name": "Control Ultimate Edition", "median": 488}
+{"appid": "32400", "name": "STAR WARS\u2122 - Dark Forces", "median": 76}
+{"appid": "610080", "name": "Realm Grinder", "median": 70}
+{"appid": "575110", "name": "Magic Lantern", "median": 307}
+{"appid": "434570", "name": "Blood and Bacon", "median": 127}
+{"appid": "264200", "name": "One Finger Death Punch", "median": 169}
+{"appid": "397720", "name": "Romance of the Three Kingdoms Maker / \u4e09\u56fd\u5fd7\u30c4\u30af\u30fc\u30eb", "median": 31}
+{"appid": "282800", "name": "100% Orange Juice", "median": 140}
+{"appid": "292120", "name": "FINAL FANTASY\u00ae XIII", "median": 1081}
+{"appid": "394310", "name": "Punch Club", "median": 496}
+{"appid": "517630", "name": "Just Cause 4 Reloaded", "median": 1040}
+{"appid": "249050", "name": "Dungeon of the ENDLESS\u2122", "median": 284}
+{"appid": "495910", "name": "Dungeon Fighter Online", "median": 409}
+{"appid": "941460", "name": "Death Trash", "median": 305}
+{"appid": "991780", "name": "Notes of Soul", "median": 2450}
+{"appid": "323470", "name": "DRAGON BALL XENOVERSE", "median": 1911}
+{"appid": "1520", "name": "DEFCON", "median": 77}
+{"appid": "8230", "name": "Sam & Max 104: Abe Lincoln Must Die!", "median": 95}
+{"appid": "22300", "name": "Fallout 3", "median": 122}
+{"appid": "13210", "name": "Unreal Tournament 3 Black", "median": 355}
+{"appid": "285160", "name": "LEGO\u00ae The Hobbit\u2122", "median": 97}
+{"appid": "823500", "name": "BONEWORKS", "median": 316}
+{"appid": "654880", "name": "Dream Daddy: A Dad Dating Simulator", "median": 283}
+{"appid": "301750", "name": "RADical ROACH Remastered", "median": 377}
+{"appid": "414530", "name": "Skyforge", "median": 146}
+{"appid": "319910", "name": "Trine 3: The Artifacts of Power", "median": 296}
+{"appid": "346940", "name": "Shadowrun: Hong Kong - Extended Edition", "median": 2260}
+{"appid": "1167630", "name": "Teardown", "median": 409}
+{"appid": "1328670", "name": "Mass Effect\u2122 Legendary Edition", "median": 2704}
+{"appid": "23310", "name": "The Last Remnant\u2122", "median": 547}
+{"appid": "1380400", "name": "Saving Grace", "median": 0}
+{"appid": "977400", "name": "Cell to Singularity - Evolution Never Ends", "median": 0}
+{"appid": "288470", "name": "Fable Anniversary", "median": 764}
+{"appid": "268850", "name": "EVGA Precision X1", "median": 120}
+{"appid": "302380", "name": "Floating Point", "median": 15}
+{"appid": "724970", "name": "\u795e\u821e\u5e7b\u60f3 Faith of Danschant", "median": 948}
+{"appid": "994280", "name": "\u53e4\u5251\u5947\u8c2d\u4e09(Gujian3)", "median": 365}
+{"appid": "450540", "name": "Hot Dogs, Horseshoes & Hand Grenades", "median": 703}
+{"appid": "390670", "name": "Steel Ocean", "median": 313}
+{"appid": "614570", "name": "Dishonored\u00ae: Death of the Outsider\u2122", "median": 465}
+{"appid": "673950", "name": "Farm Together", "median": 3780}
+{"appid": "280160", "name": "Aragami", "median": 314}
+{"appid": "704270", "name": "Generation Zero\u00ae", "median": 435}
+{"appid": "259680", "name": "Tales of Maj'Eyal", "median": 1641}
+{"appid": "330020", "name": "Children of Morta", "median": 651}
+{"appid": "1089980", "name": "The Henry Stickmin Collection", "median": 233}
+{"appid": "384190", "name": "ABZU", "median": 105}
+{"appid": "333600", "name": "NEKOPARA Vol. 1", "median": 106}
+{"appid": "209650", "name": "Call of Duty\u00ae: Advanced Warfare - Gold Edition", "median": 432}
+{"appid": "40970", "name": "Stronghold Crusader HD", "median": 249}
+{"appid": "311560", "name": "Assassin\u2019s Creed\u00ae Rogue", "median": 787}
+{"appid": "590380", "name": "Into the Breach", "median": 421}
+{"appid": "311240", "name": "Zero Escape: Zero Time Dilemma", "median": 998}
+{"appid": "1248130", "name": "Farming Simulator 22", "median": 2996}
+{"appid": "9350", "name": "Supreme Commander", "median": 327}
+{"appid": "436150", "name": "Governor of Poker 3", "median": 136}
+{"appid": "330840", "name": "Game of Thrones - A Telltale Games Series", "median": 609}
+{"appid": "1436930", "name": "Temple of Apshai Trilogy", "median": 0}
+{"appid": "215530", "name": "The Incredible Adventures of Van Helsing", "median": 268}
+{"appid": "39510", "name": "Gothic II: Gold Edition", "median": 748}
+{"appid": "851850", "name": "DRAGON BALL Z: KAKAROT", "median": 1619}
+{"appid": "12710", "name": "Overlord\u2122: Raising Hell", "median": 515}
+{"appid": "310370", "name": "The Way of Life Free Edition", "median": 17}
+{"appid": "238210", "name": "System Shock 2", "median": 205}
+{"appid": "383150", "name": "Dead Island Definitive Edition", "median": 274}
+{"appid": "240760", "name": "Wasteland 2: Director's Cut", "median": 962}
+{"appid": "1207650", "name": "Suzerain", "median": 0}
+{"appid": "70600", "name": "Worms Ultimate Mayhem", "median": 130}
+{"appid": "715220", "name": "Ironsight", "median": 59}
+{"appid": "1209040", "name": "Cyber Hunter", "median": 216}
+{"appid": "207170", "name": "Legend of Grimrock", "median": 182}
+{"appid": "992300", "name": "\u55dc\u8840\u5370 Bloody Spell", "median": 232}
+{"appid": "640590", "name": "The LEGO\u00ae NINJAGO\u00ae Movie Video Game", "median": 54}
+{"appid": "493520", "name": "GTFO", "median": 418}
+{"appid": "17500", "name": "Zombie Panic! Source", "median": 28}
+{"appid": "359870", "name": "FINAL FANTASY X/X-2 HD Remaster", "median": 915}
+{"appid": "294860", "name": "Valkyria Chronicles\u2122", "median": 298}
+{"appid": "544920", "name": "Darwin Project", "median": 92}
+{"appid": "215830", "name": "Closers", "median": 26}
+{"appid": "1262560", "name": "Need for Speed\u2122 Most Wanted", "median": 348}
+{"appid": "617830", "name": "SUPERHOT VR", "median": 227}
+{"appid": "423710", "name": "Invasion: Brain Craving", "median": 236}
+{"appid": "439350", "name": "Kritika:REBOOT", "median": 57}
+{"appid": "40700", "name": "Machinarium", "median": 137}
+{"appid": "1029550", "name": "Torque Drift", "median": 86}
+{"appid": "570940", "name": "DARK SOULS\u2122: REMASTERED", "median": 1350}
+{"appid": "206190", "name": "Gunpoint", "median": 266}
+{"appid": "404410", "name": "Endless Sky", "median": 135}
+{"appid": "1022450", "name": "War Selection", "median": 0}
+{"appid": "673130", "name": "AMID EVIL", "median": 253}
+{"appid": "317470", "name": "Cubic Castles", "median": 50}
+{"appid": "211400", "name": "Deadlight", "median": 236}
+{"appid": "466910", "name": "Worm.is: The Game", "median": 29}
+{"appid": "736220", "name": "Post Scriptum", "median": 721}
+{"appid": "1466640", "name": "Road 96 \ud83d\udee3\ufe0f", "median": 848}
+{"appid": "39190", "name": "Dungeon Siege", "median": 49}
+{"appid": "603850", "name": "Age of History II", "median": 1211}
+{"appid": "879160", "name": "Battlerite Royale", "median": 87}
+{"appid": "567640", "name": "Danganronpa V3: Killing Harmony", "median": 2896}
+{"appid": "285310", "name": "RollerCoaster Tycoon\u00ae: Deluxe", "median": 311}
+{"appid": "1241110", "name": "ANARCHY", "median": 0}
+{"appid": "616560", "name": "Ultimate Epic Battle Simulator", "median": 40}
+{"appid": "351030", "name": "Pixel Puzzles Ultimate Jigsaw", "median": 203}
+{"appid": "529920", "name": "Resurgence", "median": 257}
+{"appid": "301910", "name": "Saints Row: Gat out of Hell", "median": 344}
+{"appid": "577800", "name": "NBA 2K18", "median": 3037}
+{"appid": "690640", "name": "Trine 4: The Nightmare Prince", "median": 638}
+{"appid": "12180", "name": "Grand Theft Auto 2", "median": 18}
+{"appid": "433350", "name": "BlackShot: Mercenary Warfare FPS", "median": 97}
+{"appid": "1030830", "name": "Mafia II: Definitive Edition", "median": 140}
+{"appid": "858820", "name": "Tribes of Midgard", "median": 999}
+{"appid": "241540", "name": "State of Decay", "median": 665}
+{"appid": "371660", "name": "Far Cry\u00ae Primal", "median": 731}
+{"appid": "295550", "name": "Royal Quest", "median": 359}
+{"appid": "107300", "name": "Breath of Death VII", "median": 68}
+{"appid": "678800", "name": "SAS: Zombie Assault 4", "median": 77}
+{"appid": "859580", "name": "Imperator: Rome", "median": 732}
+{"appid": "238260", "name": "Pinball Arcade", "median": 23}
+{"appid": "213610", "name": "Sonic Adventure 2", "median": 132}
+{"appid": "48240", "name": "Anno 2070\u2122", "median": 1549}
+{"appid": "58610", "name": "Wargame: European Escalation", "median": 402}
+{"appid": "224480", "name": "Octodad: Dadliest Catch", "median": 204}
+{"appid": "246900", "name": "Viscera Cleanup Detail", "median": 385}
+{"appid": "269950", "name": "X-Plane 11", "median": 2482}
+{"appid": "627270", "name": "Injustice\u2122 2", "median": 485}
+{"appid": "794260", "name": "Outward", "median": 650}
+{"appid": "1178830", "name": "Bright Memory: Infinite", "median": 121}
+{"appid": "502500", "name": "ACE COMBAT\u2122 7: SKIES UNKNOWN", "median": 718}
+{"appid": "247000", "name": "Talisman: Digital Edition", "median": 348}
+{"appid": "1147560", "name": "Skul: The Hero Slayer", "median": 952}
+{"appid": "255220", "name": "GRID Autosport", "median": 297}
+{"appid": "1213740", "name": "She Will Punish Them", "median": 213}
+{"appid": "334210", "name": "Fortified", "median": 303}
+{"appid": "24790", "name": "Command & Conquer 3: Tiberium Wars", "median": 440}
+{"appid": "1262540", "name": "Need for Speed\u2122", "median": 828}
+{"appid": "221260", "name": "Little Inferno", "median": 165}
+{"appid": "402180", "name": "Sakura Swim Club", "median": 142}
+{"appid": "357900", "name": "Make it indie!", "median": 217}
+{"appid": "583950", "name": "Artifact", "median": 969}
+{"appid": "91330", "name": "Iron Front: Digital War Edition", "median": 469}
+{"appid": "257850", "name": "Hyper Light Drifter", "median": 216}
+{"appid": "396750", "name": "EVERSPACE\u2122", "median": 166}
+{"appid": "217750", "name": "Age of Conan: Unchained", "median": 412}
+{"appid": "625960", "name": "Stoneshard", "median": 920}
+{"appid": "362960", "name": "Tyranny", "median": 860}
+{"appid": "385770", "name": "Time Clickers", "median": 179}
+{"appid": "916440", "name": "Anno 1800", "median": 6304}
+{"appid": "350080", "name": "Wolfenstein: The Old Blood", "median": 461}
+{"appid": "513560", "name": "Hunger Dungeon", "median": 21}
+{"appid": "6030", "name": "STAR WARS\u2122 Jedi Knight II - Jedi Outcast\u2122", "median": 40}
+{"appid": "400630", "name": "Wuppo: Definitive Edition", "median": 187}
+{"appid": "299740", "name": "Miscreated", "median": 458}
+{"appid": "397060", "name": "Faeria", "median": 121}
+{"appid": "375230", "name": "Warhammer 40,000: Eternal Crusade", "median": 82}
+{"appid": "410110", "name": "12 is Better Than 6", "median": 396}
+{"appid": "248610", "name": "Door Kickers", "median": 365}
+{"appid": "300080", "name": "Total War Battles: KINGDOM", "median": 336}
+{"appid": "12170", "name": "Grand Theft Auto", "median": 7}
+{"appid": "392160", "name": "X4: Foundations", "median": 6508}
+{"appid": "690510", "name": "Immortal Soul: Black Survival", "median": 95}
+{"appid": "228300", "name": "Remember Me", "median": 402}
+{"appid": "359800", "name": "Copa Petrobras de Marcas", "median": 23}
+{"appid": "447530", "name": "VA-11 Hall-A: Cyberpunk Bartender Action", "median": 433}
+{"appid": "1510", "name": "Uplink", "median": 393}
+{"appid": "805550", "name": "Assetto Corsa Competizione", "median": 667}
+{"appid": "1129580", "name": "Medieval Dynasty", "median": 1824}
+{"appid": "760510", "name": "Cat Burglar: A Tail of Purrsuit", "median": 106}
+{"appid": "12830", "name": "Operation Flashpoint: Dragon Rising", "median": 73}
+{"appid": "1241100", "name": "POLYGON: Online Shooter", "median": 0}
+{"appid": "866800", "name": "The Walking Dead: The Final Season", "median": 2738}
+{"appid": "99300", "name": "Renegade Ops", "median": 164}
+{"appid": "564710", "name": "Soda Dungeon", "median": 332}
+{"appid": "17440", "name": "SPORE\u2122 Creepy & Cute Parts Pack", "median": 196}
+{"appid": "531640", "name": "Eternal Card Game", "median": 74}
+{"appid": "305050", "name": "Outland", "median": 150}
+{"appid": "339600", "name": "VEGA Conflict", "median": 140}
+{"appid": "45760", "name": "Ultra Street Fighter\u00ae IV", "median": 312}
+{"appid": "1222690", "name": "Dragon Age\u2122 Inquisition", "median": 752}
+{"appid": "1088150", "name": "Scribble It!", "median": 78}
+{"appid": "1200", "name": "Red Orchestra: Ostfront 41-45", "median": 128}
+{"appid": "300550", "name": "Shadowrun: Dragonfall - Director's Cut", "median": 1644}
+{"appid": "405310", "name": "LEGO\u00ae MARVEL's Avengers", "median": 854}
+{"appid": "731490", "name": "Crash Bandicoot\u2122 N. Sane Trilogy", "median": 307}
+{"appid": "297130", "name": "Titan Souls", "median": 33}
+{"appid": "607260", "name": "McOsu", "median": 12}
+{"appid": "250180", "name": "METAL SLUG 3", "median": 106}
+{"appid": "1049800", "name": "BLOCKADE", "median": 0}
+{"appid": "377840", "name": "FINAL FANTASY IX", "median": 1218}
+{"appid": "950670", "name": "Gothic Playable Teaser", "median": 39}
+{"appid": "487220", "name": "Freebie", "median": 244}
+{"appid": "816020", "name": "JUMP FORCE", "median": 220}
+{"appid": "773951", "name": "Freeman: Guerrilla Warfare", "median": 924}
+{"appid": "365300", "name": "Transmissions: Element 120", "median": 55}
+{"appid": "644830", "name": "The Surge 2", "median": 724}
+{"appid": "204060", "name": "Superbrothers: Sword & Sworcery EP", "median": 29}
+{"appid": "443810", "name": "This Is the Police", "median": 194}
+{"appid": "589870", "name": "Learn to Fly 3", "median": 165}
+{"appid": "225420", "name": "Cities in Motion 2", "median": 147}
+{"appid": "65540", "name": "Gothic 1", "median": 614}
+{"appid": "46510", "name": "Syberia II", "median": 237}
+{"appid": "239070", "name": "Hammerwatch", "median": 206}
+{"appid": "263540", "name": "Villagers and Heroes", "median": 59}
+{"appid": "728540", "name": "Islands of Nyne: Battle Royale", "median": 83}
+{"appid": "997070", "name": "Marvel's Avengers", "median": 1023}
+{"appid": "253960", "name": "Jack Orlando: Director's Cut", "median": 271}
+{"appid": "237990", "name": "The Banner Saga", "median": 498}
+{"appid": "701160", "name": "Kingdom Two Crowns", "median": 1226}
+{"appid": "274520", "name": "Darkwood", "median": 153}
+{"appid": "91200", "name": "Anomaly: Warzone Earth", "median": 172}
+{"appid": "403900", "name": "Clergy Splode", "median": 215}
+{"appid": "292730", "name": "Call of Duty\u00ae: Infinite Warfare", "median": 1109}
+{"appid": "514900", "name": ">observer_", "median": 160}
+{"appid": "591740", "name": "Sniper Fury", "median": 61}
+{"appid": "214170", "name": "Divine Divinity", "median": 604}
+{"appid": "375950", "name": "Viridi", "median": 26}
+{"appid": "31270", "name": "Puzzle Agent", "median": 222}
+{"appid": "324810", "name": "TOXIKK\u2122", "median": 52}
+{"appid": "1264670", "name": "The Wind Road \u7d2b\u585e\u79cb\u98ce", "median": 648}
+{"appid": "423230", "name": "Furi", "median": 204}
+{"appid": "1203630", "name": "Record of Lodoss War-Deedlit in Wonder Labyrinth-", "median": 336}
+{"appid": "674020", "name": "World War 3", "median": 733}
+{"appid": "585690", "name": "Minimalism", "median": 407}
+{"appid": "40300", "name": "Risen", "median": 388}
+{"appid": "400170", "name": "The Incredible Adventures of Van Helsing: Final Cut", "median": 346}
+{"appid": "243970", "name": "Invisible, Inc.", "median": 246}
+{"appid": "321360", "name": "Primal Carnage: Extinction", "median": 348}
+{"appid": "10150", "name": "Prototype\u2122", "median": 253}
+{"appid": "326960", "name": "Killing Floor - Toy Master", "median": 7}
+{"appid": "274920", "name": "FaceRig", "median": 224}
+{"appid": "252530", "name": "OMSI 2: Steam Edition", "median": 7978}
+{"appid": "217920", "name": "Alien Rage - Unlimited", "median": 188}
+{"appid": "385800", "name": "NEKOPARA Vol. 0", "median": 58}
+{"appid": "1401750", "name": "Mission Z", "median": 0}
+{"appid": "311730", "name": "DEAD OR ALIVE 5 Last Round: Core Fighters", "median": 23}
+{"appid": "568220", "name": "Lobotomy Corporation | Monster Management Simulation", "median": 360}
+{"appid": "485310", "name": "Head Shot", "median": 248}
+{"appid": "368360", "name": "60 Seconds!", "median": 142}
+{"appid": "560130", "name": "Pillars of Eternity II: Deadfire", "median": 2378}
+{"appid": "363490", "name": "Escape Machines", "median": 224}
+{"appid": "1162520", "name": "Richman10", "median": 630}
+{"appid": "1509960", "name": "PICO PARK", "median": 153}
+{"appid": "792220", "name": "Paunch", "median": 0}
+{"appid": "1104450", "name": "Bombergrounds: Battle Royale", "median": 0}
+{"appid": "421020", "name": "DiRT 4", "median": 447}
+{"appid": "375450", "name": "NOBUNAGA'S AMBITION: Sphere of Influence - Ascension / \u4fe1\u9577\u306e\u91ce\u671b\uff65\u5275\u9020 \u6226\u56fd\u7acb\u5fd7\u4f1d", "median": 167}
+{"appid": "46500", "name": "Syberia", "median": 121}
+{"appid": "266510", "name": "Hand of Fate", "median": 275}
+{"appid": "449960", "name": "Book of Demons", "median": 625}
+{"appid": "221680", "name": "Rocksmith\u00ae 2014 Edition - Remastered", "median": 3042}
+{"appid": "449200", "name": "Calcu-Late", "median": 212}
+{"appid": "21130", "name": "LEGO\u00ae Harry Potter: Years 1-4", "median": 184}
+{"appid": "1262580", "name": "Need for Speed\u2122 Payback", "median": 715}
+{"appid": "799960", "name": "Wizard101", "median": 79}
+{"appid": "253230", "name": "A Hat in Time", "median": 482}
+{"appid": "438180", "name": "Super Mustache", "median": 216}
+{"appid": "300380", "name": "Road Redemption", "median": 168}
+{"appid": "915320", "name": "Pixel Strike 3D", "median": 0}
+{"appid": "375910", "name": "Anno 2205\u2122", "median": 3551}
+{"appid": "843380", "name": "Super Animal Royale", "median": 91}
+{"appid": "222730", "name": "Reus", "median": 146}
+{"appid": "263060", "name": "Blockstorm", "median": 214}
+{"appid": "611670", "name": "The Elder Scrolls V: Skyrim VR", "median": 104}
+{"appid": "636040", "name": "Pixel Worlds: MMO Sandbox", "median": 62}
+{"appid": "515690", "name": "Warriors of Vilvatikta", "median": 216}
+{"appid": "205710", "name": "EverQuest", "median": 103}
+{"appid": "457550", "name": "Bigscreen Beta", "median": 74}
+{"appid": "223100", "name": "Homefront\u00ae: The Revolution", "median": 316}
+{"appid": "760060", "name": "Mutant Year Zero: Road to Eden", "median": 1066}
+{"appid": "858810", "name": "Dawn of Man", "median": 811}
+{"appid": "903950", "name": "Last Oasis", "median": 34950}
+{"appid": "72200", "name": "Universe Sandbox Legacy", "median": 110}
+{"appid": "434170", "name": "The Jackbox Party Pack 3", "median": 370}
+{"appid": "266430", "name": "Anarchy Arcade", "median": 13}
+{"appid": "667530", "name": "Drunken Wrestlers 2", "median": 41}
+{"appid": "512900", "name": "Streets of Rogue", "median": 299}
+{"appid": "200900", "name": "Cave Story+", "median": 209}
+{"appid": "1189630", "name": "Path Of Wuxia", "median": 1656}
+{"appid": "16450", "name": "F.E.A.R. 2: Project Origin", "median": 284}
+{"appid": "218640", "name": "Lucius", "median": 192}
+{"appid": "231160", "name": "The Swapper", "median": 162}
+{"appid": "246420", "name": "Kingdom Rush  - Tower Defense", "median": 1611}
+{"appid": "541570", "name": "Sally Face - Episode One", "median": 360}
+{"appid": "211600", "name": "Thief\u2122 Gold", "median": 39}
+{"appid": "1307550", "name": "Craftopia", "median": 780}
+{"appid": "282100", "name": "Fearless Fantasy", "median": 98}
+{"appid": "403190", "name": "Planetbase", "median": 3967}
+{"appid": "296470", "name": "Mount Your Friends", "median": 99}
+{"appid": "613010", "name": "Secret in Story", "median": 247}
+{"appid": "557180", "name": "League of Maidens\u00ae", "median": 1505}
+{"appid": "704450", "name": "Neverwinter Nights: Enhanced Edition", "median": 865}
+{"appid": "203630", "name": "Warlock - Master of the Arcane", "median": 143}
+{"appid": "1222730", "name": "STAR WARS\u2122: Squadrons", "median": 350}
+{"appid": "413410", "name": "Danganronpa: Trigger Happy Havoc", "median": 1094}
+{"appid": "710920", "name": "Darksiders Genesis", "median": 352}
+{"appid": "6800", "name": "Commandos: Behind Enemy Lines", "median": 33}
+{"appid": "255520", "name": "Viscera Cleanup Detail: Shadow Warrior", "median": 18}
+{"appid": "223850", "name": "3DMark", "median": 127}
+{"appid": "745920", "name": "Temtem", "median": 942}
+{"appid": "311290", "name": "SpellForce 3 Reforced", "median": 532}
+{"appid": "707010", "name": "Will To Live Online", "median": 134}
+{"appid": "1144200", "name": "Ready or Not", "median": 402}
+{"appid": "253030", "name": "Race The Sun", "median": 183}
+{"appid": "954740", "name": "Terminator: Resistance", "median": 178}
+{"appid": "1104640", "name": "New Frontier", "median": 31}
+{"appid": "391070", "name": "Stellar 2D", "median": 213}
+{"appid": "960170", "name": "DJMAX RESPECT V", "median": 1140}
+{"appid": "1500", "name": "Darwinia", "median": 25}
+{"appid": "351640", "name": "Eternal Senia", "median": 23}
+{"appid": "400040", "name": "ShareX", "median": 37}
+{"appid": "234670", "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD", "median": 820}
+{"appid": "751780", "name": "Forager", "median": 1216}
+{"appid": "822240", "name": "Animal Jam", "median": 0}
+{"appid": "950100", "name": "PRO EVOLUTION SOCCER 2019 LITE", "median": 9236}
+{"appid": "361280", "name": "Turmoil", "median": 323}
+{"appid": "305260", "name": "Battle Islands", "median": 227}
+{"appid": "1233570", "name": "Mirror's Edge\u2122 Catalyst", "median": 193}
+{"appid": "962730", "name": "Skater XL - The Ultimate Skateboarding Game", "median": 5228}
+{"appid": "287980", "name": "Mini Metro", "median": 205}
+{"appid": "302590", "name": "Of Guards And Thieves", "median": 28}
+{"appid": "251950", "name": "WWII Online", "median": 55}
+{"appid": "252850", "name": "Streamline", "median": 262}
+{"appid": "394690", "name": "Tower Unite", "median": 695}
+{"appid": "256290", "name": "Child of Light", "median": 228}
+{"appid": "6810", "name": "Commandos: Beyond the Call of Duty", "median": 140}
+{"appid": "449680", "name": "SAMOLIOTIK", "median": 302}
+{"appid": "570770", "name": "\u53e4\u5251\u5947\u8c2d\u4e8c(GuJian2)", "median": 1947}
+{"appid": "531510", "name": "Just Shapes & Beats", "median": 475}
+{"appid": "882100", "name": "XCOM\u00ae: Chimera Squad", "median": 711}
+{"appid": "232910", "name": "TrackMania\u00b2 Stadium", "median": 555}
+{"appid": "104200", "name": "BEEP", "median": 162}
+{"appid": "224920", "name": "Legacy of Kain: Soul Reaver", "median": 33}
+{"appid": "360170", "name": "How to Survive 2", "median": 272}
+{"appid": "428550", "name": "Momodora: Reverie Under The Moonlight", "median": 198}
+{"appid": "985890", "name": "Streets of Rage 4", "median": 1308}
+{"appid": "905640", "name": "Combat Arms: Reloaded", "median": 366}
+{"appid": "94400", "name": "Nidhogg", "median": 123}
+{"appid": "298180", "name": "The Desolate Hope", "median": 80}
+{"appid": "337320", "name": "Paint the Town Red", "median": 930}
+{"appid": "795100", "name": "Friday the 13th: Killer Puzzle", "median": 61}
+{"appid": "266210", "name": "One Way Heroics", "median": 540}
+{"appid": "1325200", "name": "Nioh 2 \u2013 The Complete Edition", "median": 3551}
+{"appid": "9010", "name": "Return to Castle Wolfenstein", "median": 140}
+{"appid": "921630", "name": "\u97f3\u7075 INVAXION", "median": 355}
+{"appid": "921590", "name": "DISSIDIA FINAL FANTASY NT Free Edition", "median": 23}
+{"appid": "345180", "name": "Victor Vran ARPG", "median": 517}
+{"appid": "375480", "name": "Chronicon", "median": 1109}
+{"appid": "422250", "name": "ShipLord", "median": 281}
+{"appid": "63710", "name": "BIT.TRIP RUNNER", "median": 120}
+{"appid": "529180", "name": "Dark and Light", "median": 1569}
+{"appid": "654990", "name": "Dude Simulator", "median": 373}
+{"appid": "402710", "name": "Osiris: New Dawn", "median": 778}
+{"appid": "946050", "name": "Soda Dungeon 2", "median": 3510}
+{"appid": "234190", "name": "Receiver", "median": 36}
+{"appid": "397950", "name": "Clustertruck", "median": 183}
+{"appid": "7510", "name": "X-Blades", "median": 345}
+{"appid": "526790", "name": "Monsti", "median": 249}
+{"appid": "522210", "name": "Serial Cleaner", "median": 282}
+{"appid": "331600", "name": "One Piece Pirate Warriors 3", "median": 763}
+{"appid": "287920", "name": "Mortal Online", "median": 42}
+{"appid": "496240", "name": "Onward", "median": 362}
+{"appid": "536220", "name": "The Walking Dead: A New Frontier", "median": 707}
+{"appid": "443110", "name": "Armored Warfare", "median": 511}
+{"appid": "7520", "name": "Two Worlds II HD", "median": 424}
+{"appid": "874240", "name": "MU Legend", "median": 367}
+{"appid": "234330", "name": "MARVEL Puzzle Quest", "median": 398}
+{"appid": "25000", "name": "Overgrowth", "median": 173}
+{"appid": "512470", "name": "The Pirate: Caribbean Hunt", "median": 25}
+{"appid": "402570", "name": "Atlas Reactor", "median": 53}
+{"appid": "446800", "name": "Transport Fever", "median": 6014}
+{"appid": "212390", "name": "Continent of the Ninth Seal", "median": 296}
+{"appid": "351970", "name": "Tales of Zestiria", "median": 1798}
+{"appid": "6980", "name": "Thief: Deadly Shadows", "median": 25}
+{"appid": "533540", "name": "MONMUSU", "median": 190}
+{"appid": "1116960", "name": "UNDEFEATED", "median": 0}
+{"appid": "1301720", "name": "Escape Room - Der kranke Kollege", "median": 77}
+{"appid": "70300", "name": "VVVVVV", "median": 107}
+{"appid": "64000", "name": "Men of War: Assault Squad", "median": 1677}
+{"appid": "677120", "name": "Heroes of Hammerwatch", "median": 856}
+{"appid": "736260", "name": "Baba Is You", "median": 321}
+{"appid": "249650", "name": "Blackguards", "median": 408}
+{"appid": "293780", "name": "Crawl", "median": 219}
+{"appid": "6830", "name": "Commandos 2: Men of Courage", "median": 58}
+{"appid": "249230", "name": "Risen 3 - Titan Lords", "median": 1442}
+{"appid": "288160", "name": "The Room", "median": 156}
+{"appid": "219780", "name": "Divinity II: Developer's Cut", "median": 339}
+{"appid": "557340", "name": "My Friend Pedro", "median": 215}
+{"appid": "338180", "name": "Batla", "median": 82}
+{"appid": "98200", "name": "Frozen Synapse", "median": 123}
+{"appid": "451340", "name": "Gold Rush: The Game", "median": 1874}
+{"appid": "732370", "name": "Juicy Realm", "median": 924}
+{"appid": "285330", "name": "RollerCoaster Tycoon\u00ae 2: Triple Thrill Pack", "median": 30}
+{"appid": "39200", "name": "Dungeon Siege II", "median": 36}
+{"appid": "32360", "name": "The Secret of Monkey Island: Special Edition", "median": 236}
+{"appid": "8800", "name": "Civilization IV: Beyond the Sword", "median": 536}
+{"appid": "411300", "name": "ELEX", "median": 1253}
+{"appid": "428690", "name": "Youtubers Life", "median": 676}
+{"appid": "626690", "name": "Sword Art Online: Fatal Bullet", "median": 908}
+{"appid": "606150", "name": "Moonlighter", "median": 466}
+{"appid": "499420", "name": "Star Fields", "median": 224}
+{"appid": "398710", "name": "Timberman", "median": 123}
+{"appid": "320300", "name": "Car Mechanic Simulator 2015", "median": 267}
+{"appid": "2820", "name": "X3: Terran Conflict", "median": 217}
+{"appid": "431730", "name": "Aseprite", "median": 3180}
+{"appid": "1017900", "name": "Age of Empires: Definitive Edition", "median": 417}
+{"appid": "289950", "name": "Construction Simulator 2015", "median": 780}
+{"appid": "489940", "name": "BATTALION 1944", "median": 272}
+{"appid": "690040", "name": "SUPERHOT: MIND CONTROL DELETE", "median": 85}
+{"appid": "1189490", "name": "\u89c5\u957f\u751f", "median": 979}
+{"appid": "429660", "name": "Tales of Berseria\u2122", "median": 680}
+{"appid": "7650", "name": "X-COM: Terror From the Deep", "median": 227}
+{"appid": "239350", "name": "Spelunky", "median": 181}
+{"appid": "1407530", "name": "Warrior Beneath Heaven", "median": 0}
+{"appid": "204030", "name": "Fable - The Lost Chapters", "median": 580}
+{"appid": "1506630", "name": "Minicraft Shooter", "median": 0}
+{"appid": "1237980", "name": "STAR WARS\u2122 Battlefront", "median": 491}
+{"appid": "501300", "name": "What Remains of Edith Finch", "median": 146}
+{"appid": "265300", "name": "Lords Of The Fallen\u2122", "median": 346}
+{"appid": "48220", "name": "Might & Magic: Heroes VI", "median": 1292}
+{"appid": "1120810", "name": "Eastern Exorcist", "median": 491}
+{"appid": "1150690", "name": "OMORI", "median": 1137}
+{"appid": "1044200", "name": "Wasteland Survival", "median": 0}
+{"appid": "1250410", "name": "Microsoft Flight Simulator Game of the Year Edition", "median": 5395}
+{"appid": "420970", "name": "RoBoRumble", "median": 362}
+{"appid": "592600", "name": "PRO EVOLUTION SOCCER 2018 LITE", "median": 2781}
+{"appid": "31290", "name": "Back to the Future: The Game", "median": 134}
+{"appid": "399810", "name": "Call of Cthulhu\u00ae", "median": 407}
+{"appid": "1238820", "name": "Battlefield 3\u2122", "median": 281}
+{"appid": "955900", "name": "Amazing Cultivation Simulator", "median": 1581}
+{"appid": "298610", "name": "Ylands", "median": 42}
+{"appid": "343360", "name": "Particula", "median": 354}
+{"appid": "798420", "name": "Professional Fishing", "median": 63}
+{"appid": "933110", "name": "Age of Empires III: Definitive Edition", "median": 564}
+{"appid": "220780", "name": "Thomas Was Alone", "median": 170}
+{"appid": "3920", "name": "Sid Meier's Pirates!", "median": 432}
+{"appid": "32390", "name": "STAR WARS\u2122 Jedi Knight - Mysteries of the Sith\u2122", "median": 45}
+{"appid": "606880", "name": "GreedFall", "median": 1530}
+{"appid": "503940", "name": "Railway Empire", "median": 650}
+{"appid": "313690", "name": "LEGO\u00ae Batman\u2122 3: Beyond Gotham", "median": 1256}
+{"appid": "339340", "name": "Resident Evil 0", "median": 468}
+{"appid": "1359090", "name": "Zero Hour", "median": 442}
+{"appid": "13230", "name": "Unreal Tournament 2004: Editor's Choice Edition", "median": 457}
+{"appid": "6840", "name": "Commandos 3: Destination Berlin", "median": 40}
+{"appid": "247430", "name": "Hitman: Contracts", "median": 57}
+{"appid": "996580", "name": "Spyro\u2122 Reignited Trilogy", "median": 599}
+{"appid": "4770", "name": "Rome: Total War\u2122 - Alexander", "median": 110}
+{"appid": "28000", "name": "Kane & Lynch 2: Dog Days", "median": 75}
+{"appid": "1218740", "name": "Rakion Chaos Force", "median": 0}
+{"appid": "743450", "name": "Monster Prom", "median": 404}
+{"appid": "493490", "name": "City Car Driving", "median": 308}
+{"appid": "764030", "name": "Realm Revolutions", "median": 57}
+{"appid": "1147690", "name": "NGU IDLE", "median": 3431}
+{"appid": "39150", "name": "FINAL FANTASY VIII", "median": 1379}
+{"appid": "418340", "name": "RWBY: Grimm Eclipse", "median": 540}
+{"appid": "442120", "name": "Pinball FX3", "median": 26}
+{"appid": "1026820", "name": "Coloring Game", "median": 280}
+{"appid": "1569040", "name": "Football Manager 2022", "median": 4856}
+{"appid": "3700", "name": "Sniper Elite", "median": 279}
+{"appid": "360940", "name": "The Mean Greens - Plastic Warfare", "median": 131}
+{"appid": "250420", "name": "8BitMMO", "median": 29}
+{"appid": "488790", "name": "South Park\u2122: The Fractured But Whole\u2122", "median": 1081}
+{"appid": "2600", "name": "Vampire: The Masquerade - Bloodlines", "median": 322}
+{"appid": "462770", "name": "Pyre", "median": 571}
+{"appid": "471550", "name": "Nine Parchments", "median": 318}
+{"appid": "222940", "name": "THE KING OF FIGHTERS XIII STEAM EDITION", "median": 223}
+{"appid": "291410", "name": "Duelyst", "median": 135}
+{"appid": "753640", "name": "Outer Wilds", "median": 515}
+{"appid": "250760", "name": "Shovel Knight: Treasure Trove", "median": 588}
+{"appid": "1533390", "name": "Gorilla Tag", "median": 126}
+{"appid": "329430", "name": "State of Decay: YOSE", "median": 367}
+{"appid": "223830", "name": "Xenonauts", "median": 770}
+{"appid": "2300", "name": "DOOM II", "median": 26}
+{"appid": "47400", "name": "Stronghold 3 Gold", "median": 799}
+{"appid": "774361", "name": "Blasphemous", "median": 409}
+{"appid": "567680", "name": "The Pasture", "median": 256}
+{"appid": "45740", "name": "Dead Rising\u00ae 2", "median": 252}
+{"appid": "242880", "name": "Sir, You Are Being Hunted", "median": 99}
+{"appid": "108200", "name": "Ticket to Ride", "median": 271}
+{"appid": "515180", "name": "Bus Simulator 18", "median": 861}
+{"appid": "399790", "name": "Destiny Warriors RPG", "median": 244}
+{"appid": "6370", "name": "Bloodline Champions", "median": 15371}
+{"appid": "464060", "name": "RUINER", "median": 152}
+{"appid": "438020", "name": "AI: Rampage", "median": 266}
+{"appid": "1282690", "name": "Crysis\u00ae 3", "median": 234}
+{"appid": "555220", "name": "Detention", "median": 153}
+{"appid": "1097840", "name": "Gears 5", "median": 891}
+{"appid": "584400", "name": "Sonic Mania", "median": 139}
+{"appid": "341310", "name": "Greyfox RPG", "median": 248}
+{"appid": "552620", "name": "ATOM RPG: Post-apocalyptic indie game", "median": 3145}
+{"appid": "409160", "name": "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist", "median": 29}
+{"appid": "42120", "name": "Lead and Gold: Gangs of the Wild West", "median": 141}
+{"appid": "972660", "name": "Spiritfarer\u00ae: Farewell Edition", "median": 861}
+{"appid": "372800", "name": "RPG MO", "median": 1265}
+{"appid": "485610", "name": "Ball 3D", "median": 50}
+{"appid": "595520", "name": "FINAL FANTASY XII THE ZODIAC AGE", "median": 2984}
+{"appid": "928600", "name": "F1\u00ae 2019", "median": 2516}
+{"appid": "503560", "name": "911 Operator", "median": 170}
+{"appid": "1128000", "name": "Cube World", "median": 573}
+{"appid": "317250", "name": "Airscape - The Fall of Gravity", "median": 175}
+{"appid": "546050", "name": "Puyo Puyo\u2122Tetris\u00ae", "median": 1402}
+{"appid": "1475380", "name": "TheDawn", "median": 0}
+{"appid": "673880", "name": "Warhammer 40,000: Mechanicus", "median": 321}
+{"appid": "95400", "name": "ibb & obb", "median": 222}
+{"appid": "420110", "name": "NEKOPARA Vol. 2", "median": 125}
+{"appid": "1468260", "name": "Leaf Blower Revolution - Idle Game", "median": 472}
+{"appid": "860510", "name": "Little Nightmares II", "median": 362}
+{"appid": "384300", "name": "CPUCores :: Maximize Your FPS", "median": 5734}
+{"appid": "292910", "name": "Deponia: The Complete Journey", "median": 264}
+{"appid": "287370", "name": "COH 2 - The Western Front Armies: US Forces", "median": 0}
+{"appid": "248390", "name": "Craft The World", "median": 1064}
+{"appid": "403560", "name": "Eaten Alive", "median": 213}
+{"appid": "332310", "name": "LEGO\u00ae Worlds", "median": 278}
+{"appid": "506140", "name": "Shop Heroes", "median": 96}
+{"appid": "315430", "name": "Polarity", "median": 154}
+{"appid": "758190", "name": "Dragon Cliff", "median": 1883}
+{"appid": "385760", "name": "NBA 2K17", "median": 3241}
+{"appid": "1106840", "name": "Hydroneer", "median": 923}
+{"appid": "573090", "name": "Stormworks: Build and Rescue", "median": 1673}
+{"appid": "360830", "name": "Yooka-Laylee", "median": 390}
+{"appid": "250600", "name": "The Plan", "median": 12}
+{"appid": "257730", "name": "Infinity Wars: Animated Trading Card Game", "median": 215}
+{"appid": "234390", "name": "Teleglitch: Die More Edition", "median": 74}
+{"appid": "332800", "name": "Five Nights at Freddy's 2", "median": 173}
+{"appid": "258520", "name": "The Vanishing of Ethan Carter", "median": 233}
+{"appid": "213650", "name": "Dwarfs - F2P", "median": 62}
+{"appid": "1301210", "name": "Knockout City\u2122", "median": 793}
+{"appid": "351470", "name": "Sometimes: Success Requires Sacrifice", "median": 199}
+{"appid": "18500", "name": "Defense Grid: The Awakening", "median": 1121}
+{"appid": "1397920", "name": "Mr.Mine", "median": 1234}
+{"appid": "285920", "name": "TerraTech", "median": 2925}
+{"appid": "342180", "name": "Arizona Sunshine\u00ae", "median": 210}
+{"appid": "290300", "name": "Rebel Galaxy", "median": 1634}
+{"appid": "511800", "name": "ONRAID", "median": 26}
+{"appid": "8000", "name": "Tomb Raider: Anniversary", "median": 164}
+{"appid": "94200", "name": "Jamestown", "median": 49}
+{"appid": "444480", "name": "Broken Dreams", "median": 235}
+{"appid": "1549970", "name": "Aliens: Fireteam Elite", "median": 775}
+{"appid": "247020", "name": "Cook, Serve, Delicious!", "median": 166}
+{"appid": "597170", "name": "Clone Drone in the Danger Zone", "median": 436}
+{"appid": "412600", "name": "Lup", "median": 212}
+{"appid": "220700", "name": "RPG Maker VX Ace", "median": 230}
+{"appid": "386070", "name": "Planetary Annihilation: TITANS", "median": 489}
+{"appid": "307290", "name": "Velvet Sundown", "median": 28}
+{"appid": "232430", "name": "Gone Home", "median": 102}
+{"appid": "410210", "name": "Ampersand", "median": 216}
+{"appid": "354140", "name": "Five Nights at Freddy's 3", "median": 114}
+{"appid": "261180", "name": "Lethal League", "median": 198}
+{"appid": "607050", "name": "Wargroove", "median": 688}
+{"appid": "25890", "name": "Hearts of Iron III", "median": 528}
+{"appid": "503820", "name": "A Detective's Novel", "median": 278}
+{"appid": "12150", "name": "Max Payne 2: The Fall of Max Payne", "median": 243}
+{"appid": "979690", "name": "The Ascent", "median": 704}
+{"appid": "8140", "name": "Tomb Raider: Underworld", "median": 168}
+{"appid": "973580", "name": "Sniper Ghost Warrior Contracts", "median": 366}
+{"appid": "1124300", "name": "HUMANKIND\u2122", "median": 916}
+{"appid": "847370", "name": "Sunset Overdrive", "median": 348}
+{"appid": "91700", "name": "E.Y.E: Divine Cybermancy", "median": 278}
+{"appid": "746850", "name": "Cloudpunk", "median": 423}
+{"appid": "260230", "name": "Valiant Hearts: The Great War\u2122 / Soldats Inconnus : M\u00e9moires de la Grande Guerre\u2122", "median": 656}
+{"appid": "493650", "name": "Deep Space Dash", "median": 217}
+{"appid": "219830", "name": "King Arthur's Gold", "median": 72}
+{"appid": "578650", "name": "The Outer Worlds", "median": 931}
+{"appid": "312280", "name": "Simply Chess", "median": 53}
+{"appid": "339470", "name": "Retention", "median": 218}
+{"appid": "35130", "name": "Lara Croft and the Guardian of Light", "median": 148}
+{"appid": "1201240", "name": "BLEACH Brave Souls", "median": 215}
+{"appid": "1121910", "name": "I Love You, Colonel Sanders! A Finger Lickin\u2019 Good Dating Simulator", "median": 0}
+{"appid": "383580", "name": "Flesh Eaters", "median": 210}
+{"appid": "232790", "name": "Broken Age", "median": 626}
+{"appid": "372360", "name": "Tales of Symphonia", "median": 659}
+{"appid": "24010", "name": "Train Simulator 2022", "median": 606}
+{"appid": "314000", "name": "Pool Nation FX Lite", "median": 64}
+{"appid": "1283220", "name": "Devolverland Expo", "median": 36}
+{"appid": "1041320", "name": "Lords Mobile", "median": 653}
+{"appid": "1036700", "name": "My Beautiful Paper Smile", "median": 300}
+{"appid": "375510", "name": "New kind of adventure", "median": 213}
+{"appid": "365360", "name": "Battle Brothers", "median": 5299}
+{"appid": "389460", "name": "Robot vs Birds Zombies", "median": 241}
+{"appid": "385070", "name": "Atonement: Scourge of Time", "median": 287}
+{"appid": "519190", "name": "Next Day: Survival", "median": 110}
+{"appid": "233980", "name": "UnEpic", "median": 731}
+{"appid": "215930", "name": "Jagged Alliance 2 - Wildfire", "median": 423}
+{"appid": "307110", "name": "We Need To Go Deeper", "median": 221}
+{"appid": "321400", "name": "Supraball", "median": 75}
+{"appid": "691690", "name": "Ash of Gods: Redemption", "median": 474}
+{"appid": "649190", "name": "Blast Zone! Tournament", "median": 0}
+{"appid": "466840", "name": "Super Space Pug", "median": 222}
+{"appid": "620590", "name": "Ancestors Legacy", "median": 517}
+{"appid": "24800", "name": "Command & Conquer: Red Alert 3 - Uprising", "median": 190}
+{"appid": "270850", "name": "Car Mechanic Simulator 2014", "median": 147}
+{"appid": "1530", "name": "Multiwinia", "median": 233}
+{"appid": "362490", "name": "Exanima", "median": 6251}
+{"appid": "204240", "name": "The Bridge", "median": 165}
+{"appid": "774241", "name": "Warhammer: Chaosbane", "median": 1002}
+{"appid": "509980", "name": "BIGFOOT", "median": 350}
+{"appid": "523660", "name": "HYPERCHARGE: Unboxed", "median": 32}
+{"appid": "508290", "name": "$1 Ride", "median": 211}
+{"appid": "356310", "name": "METAL SLUG DEFENSE", "median": 38}
+{"appid": "9160", "name": "Master Levels for Doom II", "median": 4}
+{"appid": "502520", "name": "Ultimate General: Civil War", "median": 303}
+{"appid": "283640", "name": "Salt and Sanctuary", "median": 348}
+{"appid": "633460", "name": "Tannenberg", "median": 327}
+{"appid": "26900", "name": "Crayon Physics Deluxe", "median": 42}
+{"appid": "641320", "name": "Cooking Simulator", "median": 243}
+{"appid": "1149460", "name": "ICARUS", "median": 2192}
+{"appid": "298050", "name": "Master of Orion", "median": 660}
+{"appid": "20530", "name": "Red Faction", "median": 342}
+{"appid": "225640", "name": "Sacred 2 Gold", "median": 480}
+{"appid": "203750", "name": "Binary Domain", "median": 270}
+{"appid": "1238020", "name": "Mass Effect\u2122 3 N7 Digital Deluxe Edition (2012)", "median": 1438}
+{"appid": "352400", "name": "LEGO\u00ae Jurassic World", "median": 684}
+{"appid": "632350", "name": "Cyberdimension Neptunia: 4 Goddesses Online", "median": 487}
+{"appid": "15120", "name": "Tom Clancy's Rainbow Six\u00ae Vegas 2", "median": 267}
+{"appid": "461910", "name": "Forge of Gods (RPG)", "median": 381}
+{"appid": "413420", "name": "Danganronpa 2: Goodbye Despair", "median": 1059}
+{"appid": "224960", "name": "Tomb Raider I", "median": 59}
+{"appid": "268130", "name": "Heat Signature", "median": 796}
+{"appid": "252410", "name": "SteamWorld Dig", "median": 267}
+{"appid": "410900", "name": "Forts", "median": 438}
+{"appid": "242680", "name": "Nuclear Throne", "median": 298}
+{"appid": "1092660", "name": "Blair Witch", "median": 79}
+{"appid": "1291340", "name": "Townscaper", "median": 49}
+{"appid": "220860", "name": "McPixel", "median": 145}
+{"appid": "570780", "name": "\u53e4\u5251\u5947\u8c2d(GuJian)", "median": 1245}
+{"appid": "1106850", "name": "Totally Reliable Delivery Service Beta", "median": 19}
+{"appid": "1108320", "name": "\u5984\u60f3\u7834\u7efd Broken Delusion", "median": 1295}
+{"appid": "349720", "name": "Audition Online", "median": 66}
+{"appid": "107200", "name": "Space Pirates and Zombies", "median": 297}
+{"appid": "521620", "name": "Alchemist Adventure", "median": 0}
+{"appid": "12140", "name": "Max Payne", "median": 475}
+{"appid": "415200", "name": "Motorsport Manager", "median": 1589}
+{"appid": "8600", "name": "RACE 07", "median": 85}
+{"appid": "341940", "name": "Hatred", "median": 122}
+{"appid": "588140", "name": "ESCAPE FROM VOYNA: Dead Forest", "median": 0}
+{"appid": "528230", "name": "SYNTHETIK: Legion Rising", "median": 511}
+{"appid": "253250", "name": "Stonehearth", "median": 2388}
+{"appid": "375820", "name": "Human Resource Machine", "median": 267}
+{"appid": "973760", "name": "Thronebreaker: The Witcher Tales", "median": 787}
+{"appid": "338540", "name": "Navy Field 2 : Conqueror of the Ocean", "median": 161}
+{"appid": "1384160", "name": "GUILTY GEAR -STRIVE-", "median": 2424}
+{"appid": "227180", "name": "Kingdom Wars", "median": 171}
+{"appid": "353130", "name": "Time of Dragons", "median": 17}
+{"appid": "611660", "name": "Fallout 4 VR", "median": 1058}
+{"appid": "402390", "name": "Hyperdrive Massacre", "median": 249}
+{"appid": "233840", "name": "Worms Clan Wars", "median": 286}
+{"appid": "307960", "name": "IL-2 Sturmovik: Battle of Stalingrad", "median": 480}
+{"appid": "562810", "name": "MONOPOLY\u00ae PLUS", "median": 384}
+{"appid": "362680", "name": "Fran Bow", "median": 1192}
+{"appid": "351940", "name": "The Descendant", "median": 252}
+{"appid": "234510", "name": "Rising Storm Game of the Year Edition", "median": 0}
+{"appid": "427290", "name": "Vampyr", "median": 492}
+{"appid": "213850", "name": "Magic 2014 \u2014 Duels of the Planeswalkers", "median": 898}
+{"appid": "712100", "name": "A Total War Saga: THRONES OF BRITANNIA", "median": 988}
+{"appid": "201570", "name": "Really Big Sky", "median": 179}
+{"appid": "258180", "name": "Deus Ex: The Fall", "median": 329}
+{"appid": "544750", "name": "SOULCALIBUR VI", "median": 433}
+{"appid": "313730", "name": "Sunrider: Mask of Arcadius", "median": 552}
+{"appid": "504130", "name": "Manual Samuel - Anniversary Edition", "median": 185}
+{"appid": "396160", "name": "Secret Of Magia", "median": 232}
+{"appid": "397340", "name": "SimplePlanes", "median": 371}
+{"appid": "618140", "name": "Barro", "median": 11}
+{"appid": "322190", "name": "SteamWorld Heist", "median": 322}
+{"appid": "834530", "name": "Yakuza Kiwami", "median": 2102}
+{"appid": "314280", "name": "The Forgotten Ones", "median": 212}
+{"appid": "1015500", "name": "WWE 2K20", "median": 733}
+{"appid": "1089090", "name": "ONE PIECE: PIRATE WARRIORS 4", "median": 2126}
+{"appid": "98400", "name": "Hard Reset Extended Edition", "median": 188}
+{"appid": "1184370", "name": "Pathfinder: Wrath of the Righteous", "median": 4662}
+{"appid": "599390", "name": "Battle for Wesnoth", "median": 169}
+{"appid": "13240", "name": "Unreal Tournament: Game of the Year Edition", "median": 75}
+{"appid": "281610", "name": "Homeworld: Deserts of Kharak", "median": 347}
+{"appid": "49600", "name": "Beat Hazard", "median": 262}
+{"appid": "420530", "name": "OneShot", "median": 372}
+{"appid": "3170", "name": "King's Bounty: Armored Princess", "median": 3032}
+{"appid": "1900", "name": "Earth 2160", "median": 423}
+{"appid": "8080", "name": "Kane and Lynch: Dead Men\u2122", "median": 26}
+{"appid": "734580", "name": "BattleRush", "median": 17}
+{"appid": "728530", "name": "SD GUNDAM G GENERATION CROSS RAYS", "median": 1063}
+{"appid": "7600", "name": "Sid Meier's Railroads!", "median": 716}
+{"appid": "200210", "name": "Realm of the Mad God Exalt", "median": 114}
+{"appid": "1302240", "name": "Labyrinthine", "median": 205}
+{"appid": "211740", "name": "Thief\u2122 II: The Metal Age", "median": 545}
+{"appid": "9050", "name": "DOOM 3", "median": 640}
+{"appid": "2270", "name": "Wolfenstein 3D", "median": 20}
+{"appid": "436180", "name": "Spacelords", "median": 35}
+{"appid": "1048540", "name": "Kao the Kangaroo: Round 2 (2003 re-release)", "median": 48}
+{"appid": "586140", "name": "BlazBlue Centralfiction", "median": 844}
+{"appid": "1064610", "name": "Neon Beats", "median": 23}
+{"appid": "1016920", "name": "Unrailed!", "median": 230}
+{"appid": "292410", "name": "Street Racing Syndicate", "median": 227}
+{"appid": "6870", "name": "Battlestations: Midway", "median": 127}
+{"appid": "498240", "name": "Batman - The Telltale Series", "median": 502}
+{"appid": "619150", "name": "while True: learn()", "median": 320}
+{"appid": "550470", "name": "NosTale - Anime MMORPG", "median": 116}
+{"appid": "65780", "name": "ARMA: Gold Edition", "median": 62}
+{"appid": "427100", "name": "Fernbus Simulator", "median": 1690}
+{"appid": "690530", "name": "\u7075\u9b42\u7b79\u7801 Soul at Stake", "median": 15696}
+{"appid": "496680", "name": "SweatShop", "median": 221}
+{"appid": "428430", "name": "Endorlight", "median": 255}
+{"appid": "306020", "name": "Bloons TD 5", "median": 1039}
+{"appid": "837470", "name": "Untitled Goose Game", "median": 182}
+{"appid": "78000", "name": "Bejeweled\u00ae 3", "median": 283}
+{"appid": "412220", "name": "DDraceNetwork", "median": 0}
+{"appid": "220740", "name": "Chaos on Deponia", "median": 572}
+{"appid": "813630", "name": "Supraland", "median": 452}
+{"appid": "1238040", "name": "Dragon Age II", "median": 2604}
+{"appid": "513510", "name": "Intralism", "median": 265}
+{"appid": "236150", "name": "Starpoint Gemini 2", "median": 213}
+{"appid": "15170", "name": "Heroes of Might & Magic V", "median": 942}
+{"appid": "241560", "name": "The Crew\u2122", "median": 1891}
+{"appid": "1252330", "name": "DEATHLOOP", "median": 909}
+{"appid": "753420", "name": "Dungreed", "median": 1209}
+{"appid": "546980", "name": "Midnight Carnival", "median": 217}
+{"appid": "323060", "name": "Tharsis", "median": 154}
+{"appid": "268750", "name": "Magicite", "median": 742}
+{"appid": "391260", "name": "Labyronia RPG", "median": 199}
+{"appid": "460810", "name": "Vanquish", "median": 817}
+{"appid": "882790", "name": "Fate Seeker", "median": 474}
+{"appid": "448280", "name": "Job Simulator", "median": 168}
+{"appid": "1094520", "name": "Sands of Salzaar", "median": 1029}
+{"appid": "589290", "name": "Holdfast: Nations At War", "median": 504}
+{"appid": "300040", "name": "Divine Souls F2P MMO", "median": 52}
+{"appid": "587620", "name": "Okami HD", "median": 195}
+{"appid": "597220", "name": "West of Loathing", "median": 335}
+{"appid": "201230", "name": "EverQuest II", "median": 114}
+{"appid": "290730", "name": "My Lands: Black Gem Hunting", "median": 756}
+{"appid": "247730", "name": "Nether: Resurrected", "median": 240}
+{"appid": "332500", "name": "GRAV", "median": 656}
+{"appid": "824270", "name": "KovaaK's", "median": 294}
+{"appid": "388880", "name": "Oxenfree", "median": 296}
+{"appid": "1046030", "name": "ISLANDERS", "median": 139}
+{"appid": "205910", "name": "Tiny and Big: Grandpa's Leftovers", "median": 199}
+{"appid": "418530", "name": "Spelunky 2", "median": 4009}
+{"appid": "209540", "name": "Strike Suit Zero", "median": 111}
+{"appid": "589360", "name": "Ni no Kuni\u2122 II: Revenant Kingdom", "median": 1139}
+{"appid": "230190", "name": "War for the Overworld", "median": 488}
+{"appid": "329000", "name": "Data Hacker: Corruption", "median": 320}
+{"appid": "533780", "name": "Zombie Defense", "median": 96}
+{"appid": "535760", "name": "Unforgiving Trials: The Space Crusade", "median": 245}
+{"appid": "473690", "name": "Absolver", "median": 228}
+{"appid": "737800", "name": "F1 2018", "median": 362}
+{"appid": "1007040", "name": "EARTH DEFENSE FORCE 5", "median": 1457}
+{"appid": "718670", "name": "Cultist Simulator", "median": 864}
+{"appid": "1164850", "name": "Sinking Simulator", "median": 0}
+{"appid": "301970", "name": "Screencheat", "median": 117}
+{"appid": "705220", "name": "Tactical Monsters Rumble Arena", "median": 74}
+{"appid": "384180", "name": "Prominence Poker", "median": 217}
+{"appid": "249990", "name": "FORCED: Slightly Better Edition", "median": 114}
+{"appid": "1012880", "name": "60 Seconds! Reatomized", "median": 114}
+{"appid": "393530", "name": "Insanity Clicker", "median": 163}
+{"appid": "1668800", "name": "Maze Mania: The Ultimate 3D Maze Game", "median": 0}
+{"appid": "671510", "name": "DESOLATE", "median": 274}
+{"appid": "1078730", "name": "Soccer Manager 2020", "median": 0}
+{"appid": "39650", "name": "The Guild II", "median": 620}
+{"appid": "207930", "name": "Sacred Citadel", "median": 321}
+{"appid": "462930", "name": "AdVenture Communist", "median": 41}
+{"appid": "1210320", "name": "Potion Craft: Alchemist Simulator", "median": 183}
+{"appid": "1089130", "name": "Quake II RTX", "median": 0}
+{"appid": "480430", "name": "Hide and Shriek", "median": 49}
+{"appid": "239430", "name": "Q.U.B.E: Director's Cut", "median": 203}
+{"appid": "652980", "name": "Loading Screen Simulator", "median": 32}
+{"appid": "434050", "name": "Duke Nukem 3D: 20th Anniversary World Tour", "median": 196}
+{"appid": "643270", "name": "OLDTV", "median": 21}
+{"appid": "999730", "name": "Secret Neighbor Beta", "median": 99}
+{"appid": "1364960", "name": "Hello Neighbor 2 Alpha 1.5", "median": 27}
+{"appid": "70400", "name": "Recettear: An Item Shop's Tale", "median": 353}
+{"appid": "368990", "name": "Despair", "median": 216}
+{"appid": "2810", "name": "X3: Reunion", "median": 43}
+{"appid": "859570", "name": "Secret Neighbor: Hello Neighbor Multiplayer", "median": 291}
+{"appid": "533300", "name": "Zup!", "median": 118}
+{"appid": "225300", "name": "Tomb Raider II", "median": 825}
+{"appid": "22650", "name": "Alien Breed 2: Assault", "median": 265}
+{"appid": "272510", "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution", "median": 702}
+{"appid": "274290", "name": "Gods Will Be Watching", "median": 336}
+{"appid": "94590", "name": "Puzzle Agent 2", "median": 157}
+{"appid": "851100", "name": "Touhou Luna Nights", "median": 627}
+{"appid": "218740", "name": "Pid", "median": 65}
+{"appid": "295790", "name": "Never Alone (Kisima Ingitchuna)", "median": 147}
+{"appid": "604240", "name": "Shotgun Farmers", "median": 148}
+{"appid": "1388770", "name": "Cruelty Squad", "median": 247}
+{"appid": "2200", "name": "Quake III Arena", "median": 38}
+{"appid": "7770", "name": "X-COM: Enforcer", "median": 35}
+{"appid": "1277400", "name": "Monster Hunter Stories 2: Wings of Ruin", "median": 2897}
+{"appid": "909080", "name": "Cube Escape: Paradox", "median": 136}
+{"appid": "493900", "name": "Dungeons 3", "median": 347}
+{"appid": "32380", "name": "STAR WARS\u2122 Jedi Knight: Dark Forces II", "median": 39}
+{"appid": "691020", "name": "Fog Of War - Free Edition", "median": 36}
+{"appid": "378370", "name": "Nomad", "median": 55}
+{"appid": "665180", "name": "Dark Elf", "median": 138}
+{"appid": "960990", "name": "Beyond: Two Souls", "median": 586}
+{"appid": "1066780", "name": "Transport Fever 2", "median": 2030}
+{"appid": "9310", "name": "Warhammer\u00ae 40,000: Dawn of War\u00ae \u2013 Winter Assault", "median": 129}
+{"appid": "39690", "name": "ArcaniA", "median": 442}
+{"appid": "625340", "name": "XERA: Survival", "median": 654}
+{"appid": "356570", "name": "Party Hard", "median": 255}
+{"appid": "26500", "name": "Cogs", "median": 46}
+{"appid": "506610", "name": "Five Nights at Freddy's: Sister Location", "median": 942}
+{"appid": "562010", "name": "Tanki Online", "median": 73}
+{"appid": "244090", "name": "Sid Meier\u2019s Ace Patrol: Pacific Skies", "median": 202}
+{"appid": "952070", "name": "RESIDENT EVIL RESISTANCE", "median": 201}
+{"appid": "427190", "name": "DEAD RISING\u00ae", "median": 694}
+{"appid": "1178490", "name": "\u6e2f\u8a6d\u5be6\u9304ParanormalHK", "median": 194}
+{"appid": "498320", "name": "Trolley Gold", "median": 214}
+{"appid": "235210", "name": "STRIDER\u2122 / \u30b9\u30c8\u30e9\u30a4\u30c0\u30fc\u98db\u7adc\u00ae", "median": 178}
+{"appid": "653530", "name": "Return of the Obra Dinn", "median": 445}
+{"appid": "2350", "name": "QUAKE III: Team Arena", "median": 16}
+{"appid": "469820", "name": "Genital Jousting", "median": 105}
+{"appid": "13250", "name": "Unreal Gold", "median": 12}
+{"appid": "934840", "name": "FrostRunner", "median": 0}
+{"appid": "314970", "name": "Age of Conquest IV", "median": 3048}
+{"appid": "631510", "name": "Devil May Cry HD Collection", "median": 784}
+{"appid": "25900", "name": "King's Bounty: The Legend", "median": 500}
+{"appid": "383330", "name": "Star Chronicles: Delta Quadrant", "median": 219}
+{"appid": "1024890", "name": "Sector's Edge", "median": 0}
+{"appid": "442070", "name": "Drawful 2", "median": 34}
+{"appid": "402840", "name": "Crusaders of the Lost Idols", "median": 134}
+{"appid": "412170", "name": "City of Chains", "median": 275}
+{"appid": "34010", "name": "Alpha Protocol\u2122", "median": 287}
+{"appid": "1262600", "name": "Need for Speed\u2122 Rivals", "median": 171}
+{"appid": "264140", "name": "Pixel Piracy", "median": 226}
+{"appid": "16900", "name": "GROUND BRANCH", "median": 532}
+{"appid": "353380", "name": "Steam Link", "median": 0}
+{"appid": "672680", "name": "Call of War: World War 2", "median": 125}
+{"appid": "1009850", "name": "OVR Advanced Settings", "median": 0}
+{"appid": "429050", "name": "Feed and Grow: Fish", "median": 312}
+{"appid": "22230", "name": "Rock of Ages", "median": 167}
+{"appid": "530330", "name": "Blameless", "median": 49}
+{"appid": "342980", "name": "Destination Sol", "median": 38}
+{"appid": "34900", "name": "Bad Rats: the Rats' Revenge", "median": 174}
+{"appid": "388090", "name": "Five Nights at Freddy's 4", "median": 128}
+{"appid": "370240", "name": "NBA 2K16", "median": 1761}
+{"appid": "39680", "name": "The Guild II Renaissance", "median": 2658}
+{"appid": "71250", "name": "Sonic Adventure DX", "median": 199}
+{"appid": "679900", "name": "Swords & Souls: Neverseen", "median": 1166}
+{"appid": "314020", "name": "Morphopolis", "median": 188}
+{"appid": "222750", "name": "Wargame: Airland Battle", "median": 442}
+{"appid": "520440", "name": "GUILTY GEAR Xrd -REVELATOR-", "median": 240}
+{"appid": "344760", "name": "Reign Of Kings", "median": 521}
+{"appid": "248550", "name": "Megabyte Punch", "median": 288}
+{"appid": "1288310", "name": "Firework", "median": 291}
+{"appid": "438640", "name": "LEGO\u00ae STAR WARS\u2122: The Force Awakens", "median": 700}
+{"appid": "548570", "name": "RAGE 2", "median": 2363}
+{"appid": "499520", "name": "The Turing Test", "median": 367}
+{"appid": "953490", "name": "CARRION", "median": 294}
+{"appid": "327640", "name": "CaesarIA", "median": 35}
+{"appid": "699170", "name": "Fell Seal: Arbiter's Mark", "median": 1052}
+{"appid": "545700", "name": "The Land of Dasthir", "median": 212}
+{"appid": "257420", "name": "Serious Sam 4", "median": 470}
+{"appid": "234080", "name": "Castlevania: Lords of Shadow \u2013 Ultimate Edition", "median": 217}
+{"appid": "527770", "name": "Russian SuperHero Dead Ivan", "median": 237}
+{"appid": "682990", "name": "Drug Dealer Simulator", "median": 1141}
+{"appid": "719310", "name": "King's Table - The Legend of Ragnarok", "median": 0}
+{"appid": "102840", "name": "Shank 2", "median": 284}
+{"appid": "638230", "name": "Journey", "median": 161}
+{"appid": "368730", "name": "No Time To Explain Remastered", "median": 73}
+{"appid": "1013320", "name": "Firestone Idle RPG", "median": 22779}
+{"appid": "609320", "name": "FAR: Lone Sails", "median": 236}
+{"appid": "547680", "name": "Guild Quest", "median": 37}
+{"appid": "41100", "name": "Hammerfight", "median": 18}
+{"appid": "333950", "name": "Medieval Engineers", "median": 220}
+{"appid": "602520", "name": "NEKOPARA Vol. 3", "median": 175}
+{"appid": "241910", "name": "Goodbye Deponia", "median": 705}
+{"appid": "225320", "name": "Tomb Raider III", "median": 212}
+{"appid": "248860", "name": "NEO Scavenger", "median": 811}
+{"appid": "2290", "name": "Final DOOM", "median": 14}
+{"appid": "1127400", "name": "Mindustry", "median": 1411}
+{"appid": "562360", "name": "Planes, Bullets and Vodka", "median": 341}
+{"appid": "260430", "name": "The Four Kings Casino and Slots", "median": 45}
+{"appid": "40990", "name": "Mafia", "median": 621}
+{"appid": "250340", "name": "Blockland", "median": 370}
+{"appid": "1372640", "name": "Candle In Darkness", "median": 0}
+{"appid": "382110", "name": "Virtual Desktop", "median": 353}
+{"appid": "999220", "name": "Amnesia: Rebirth", "median": 475}
+{"appid": "22610", "name": "Alien Breed: Impact", "median": 243}
+{"appid": "313340", "name": "Mountain", "median": 313}
+{"appid": "7660", "name": "X-COM: Apocalypse", "median": 641}
+{"appid": "1170880", "name": "Grimm's Hollow", "median": 0}
+{"appid": "362930", "name": "Garfield Kart", "median": 112}
+{"appid": "405900", "name": "Disgaea PC", "median": 1364}
+{"appid": "369990", "name": "Gremlins, Inc.", "median": 242}
+{"appid": "537800", "name": "Bomber Crew", "median": 224}
+{"appid": "438030", "name": "Dead6hot", "median": 227}
+{"appid": "1448530", "name": "Soccer Manager 2021", "median": 0}
+{"appid": "700600", "name": "Evil Genius 2: World Domination", "median": 2041}
+{"appid": "502550", "name": "Strike.is: The Game", "median": 23}
+{"appid": "318600", "name": "The Flame in the Flood", "median": 137}
+{"appid": "214870", "name": "Painkiller Hell & Damnation", "median": 105}
+{"appid": "1369630", "name": "ENDER LILIES: Quietus of the Knights", "median": 569}
+{"appid": "977880", "name": "Eastward", "median": 442}
+{"appid": "321960", "name": "Might & Magic\u00ae Heroes\u00ae VII", "median": 3641}
+{"appid": "1147550", "name": "Not For Broadcast", "median": 283}
+{"appid": "244050", "name": "Rise of Flight United", "median": 24}
+{"appid": "280640", "name": "Dark Shadows - Army of Evil", "median": 678}
+{"appid": "25800", "name": "Europa Universalis III Complete", "median": 3478}
+{"appid": "732690", "name": "FIVE NIGHTS AT FREDDY'S: HELP WANTED", "median": 320}
+{"appid": "950890", "name": "Game Master Plus", "median": 0}
+{"appid": "2320", "name": "QUAKE II", "median": 29}
+{"appid": "7000", "name": "Tomb Raider: Legend", "median": 116}
+{"appid": "1094710", "name": "Royal Crown", "median": 97}
+{"appid": "565860", "name": "Tomato Way", "median": 227}
+{"appid": "38700", "name": "Toki Tori", "median": 63}
+{"appid": "608990", "name": "The Archotek Project", "median": 25}
+{"appid": "342380", "name": "Sakura Angels", "median": 167}
+{"appid": "289690", "name": "LARA CROFT AND THE TEMPLE OF OSIRIS\u2122", "median": 79}
+{"appid": "335670", "name": "LISA: The Painful", "median": 586}
+{"appid": "502140", "name": "Drayt Empire", "median": 216}
+{"appid": "611790", "name": "House Party", "median": 312}
+{"appid": "278460", "name": "Skyborn", "median": 242}
+{"appid": "303210", "name": "The Beginner's Guide", "median": 121}
+{"appid": "1106530", "name": "GemCraft - Frostborn Wrath", "median": 2217}
+{"appid": "1024380", "name": "Second Extinction\u2122", "median": 1746}
+{"appid": "13560", "name": "Tom Clancy's Splinter Cell\u00ae", "median": 47}
+{"appid": "274560", "name": "Revolution Ace", "median": 191}
+{"appid": "1195460", "name": "Last Year", "median": 613}
+{"appid": "486310", "name": "Meadow", "median": 269}
+{"appid": "252330", "name": "Slender: The Arrival", "median": 293}
+{"appid": "276810", "name": "Mordheim: City of the Damned", "median": 4635}
+{"appid": "527760", "name": "Just Hero", "median": 219}
+{"appid": "438680", "name": "One Troll Army", "median": 108}
+{"appid": "334920", "name": "Zero-K", "median": 267}
+{"appid": "98800", "name": "Dungeons of Dredmor", "median": 1435}
+{"appid": "429570", "name": "The Walking Dead: Michonne - A Telltale Miniseries", "median": 261}
+{"appid": "482920", "name": "Hero Zero", "median": 26}
+{"appid": "448070", "name": "Red Risk", "median": 273}
+{"appid": "921570", "name": "OCTOPATH TRAVELER\u2122", "median": 1947}
+{"appid": "1061090", "name": "Jump King", "median": 226}
+{"appid": "283880", "name": "Heroine's Quest: The Herald of Ragnarok", "median": 38}
+{"appid": "244070", "name": "Sid Meier\u2019s Ace Patrol", "median": 194}
+{"appid": "41900", "name": "The Bard's Tale", "median": 161}
+{"appid": "732430", "name": "Superflight", "median": 42}
+{"appid": "316790", "name": "Grim Fandango Remastered", "median": 216}
+{"appid": "743090", "name": "Defiance 2050", "median": 297}
+{"appid": "336510", "name": "Anno Online", "median": 106}
+{"appid": "1084520", "name": "\u96c0\u59ec/\u59eb\u9ebb\u96c0", "median": 0}
+{"appid": "356500", "name": "STAR WARS\u2122 Galactic Battlegrounds Saga", "median": 189}
+{"appid": "245470", "name": "Democracy 3", "median": 288}
+{"appid": "382120", "name": "Journey To The Center Of The Earth", "median": 258}
+{"appid": "33100", "name": "Alien Shooter", "median": 146}
+{"appid": "542340", "name": "Slingshot people", "median": 208}
+{"appid": "205650", "name": "The Testament of Sherlock Holmes", "median": 419}
+{"appid": "960910", "name": "Heavy Rain", "median": 454}
+{"appid": "574820", "name": "Cat or Bread?", "median": 433}
+{"appid": "692530", "name": "Community Garden", "median": 143}
+{"appid": "200940", "name": "Sonic CD", "median": 154}
+{"appid": "528510", "name": "Turbo Pug 3D", "median": 222}
+{"appid": "318430", "name": "Squishy the Suicidal Pig", "median": 88}
+{"appid": "358130", "name": "Curious Expedition", "median": 508}
+{"appid": "330830", "name": "Tales from the Borderlands", "median": 651}
+{"appid": "426000", "name": "HunieCam Studio", "median": 332}
+{"appid": "1304400", "name": "The End of Dyeus", "median": 0}
+{"appid": "688420", "name": "Bad North: Jotunn Edition", "median": 266}
+{"appid": "266310", "name": "GameGuru", "median": 43}
+{"appid": "277430", "name": "Halo: Spartan Assault", "median": 81}
+{"appid": "412830", "name": "STEINS;GATE", "median": 371}
+{"appid": "559650", "name": "Witch It", "median": 191}
+{"appid": "658850", "name": "Do Not Feed the Monkeys", "median": 259}
+{"appid": "298160", "name": "Eldevin", "median": 879}
+{"appid": "13570", "name": "Tom Clancy's Splinter Cell Chaos Theory\u00ae", "median": 166}
+{"appid": "282900", "name": "Hyperdimension Neptunia Re;Birth1", "median": 1160}
+{"appid": "337340", "name": "Finding Paradise", "median": 342}
+{"appid": "32510", "name": "LEGO\u00ae Star Wars\u2122 III - The Clone Wars\u2122", "median": 464}
+{"appid": "269770", "name": "Secrets of Grindea", "median": 833}
+{"appid": "202200", "name": "Galactic Civilizations\u00ae II: Ultimate Edition", "median": 21}
+{"appid": "1490890", "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles", "median": 1137}
+{"appid": "227100", "name": "Sniper Elite: Nazi Zombie Army", "median": 230}
+{"appid": "666860", "name": "Bit Heroes", "median": 151}
+{"appid": "1262240", "name": "Plants vs. Zombies: Battle for Neighborville\u2122", "median": 1273}
+{"appid": "40400", "name": "AI War: Fleet Command", "median": 238}
+{"appid": "412470", "name": "Metal War Online: Retribution", "median": 103}
+{"appid": "263760", "name": "Turbo Dismount\u2122", "median": 1016}
+{"appid": "561340", "name": "Merlin adventurer store", "median": 288}
+{"appid": "215510", "name": "Rocketbirds: Hardboiled Chicken", "median": 97}
+{"appid": "664430", "name": "WWE 2K18", "median": 1877}
+{"appid": "284950", "name": "Pixel Puzzles: Japan", "median": 307}
+{"appid": "501590", "name": "Bulletstorm: Full Clip Edition", "median": 367}
+{"appid": "1140620", "name": "CosmicBreak Universal", "median": 1005}
+{"appid": "376730", "name": "Monument", "median": 275}
+{"appid": "828740", "name": "Tales of the Neon Sea", "median": 618}
+{"appid": "1476970", "name": "Legends of IdleOn - Idle MMO", "median": 376}
+{"appid": "406970", "name": "The Uncertain: Last Quiet Day", "median": 70}
+{"appid": "360740", "name": "Downwell", "median": 212}
+{"appid": "231140", "name": "Cities XL Platinum", "median": 342}
+{"appid": "245280", "name": "ENSLAVED\u2122: Odyssey to the West\u2122 Premium Edition", "median": 291}
+{"appid": "469600", "name": "Legion TD 2 - Multiplayer Tower Defense", "median": 2220}
+{"appid": "547960", "name": "Space Beret", "median": 224}
+{"appid": "272470", "name": "The Incredible Adventures of Van Helsing II", "median": 180}
+{"appid": "790820", "name": "Valkyria Chronicles 4 Complete Edition", "median": 1078}
+{"appid": "1161580", "name": "Hardspace: Shipbreaker", "median": 694}
+{"appid": "314450", "name": "Star Saviors", "median": 194}
+{"appid": "897330", "name": "Coloring Pixels", "median": 1757}
